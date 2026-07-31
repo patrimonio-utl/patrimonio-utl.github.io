@@ -1,0 +1,13 @@
+FOTOGRAFIAS DOS CARTÕES
+=======================
+
+Colocar nesta pasta as fotografias dos cartões, em formato JPG.
+
+O site reconhece, entre outras, estas variantes:
+- Vídeos exibidos nas aulas: pc22.jpg ou pc-22.jpg
+- Vídeos recomendados: pc23.jpg ou pc-23.jpg
+- Património Móvel e Museológico: pc25.jpg ou pc-25.jpg
+- Educação, Divulgação e Temas Transversais: pc26.jpg ou pc-26.jpg
+
+As extensões .jpg e .JPG são aceites para estes quatro cartões.
+Nos restantes cartões, manter os nomes definidos no mapa do projeto.

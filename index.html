@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+
+<html lang="pt-PT">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<meta content="#333333" name="theme-color"/>
+<meta content="Acervo documental de apoio às aulas de Património Cultural 2026/2027." name="description"/>
+<meta content="noindex, nofollow" name="robots"/>
+<title>Património Cultural — Acervo documental</title>
+<link href="manifest.webmanifest" rel="manifest"/>
+<link href="assets/icon-192.png" rel="icon" sizes="192x192"/>
+<link href="assets/apple-touch-icon.png" rel="apple-touch-icon"/>
+<link href="https://fonts.googleapis.com" rel="preconnect"/>
+<link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&amp;display=swap" rel="stylesheet"/>
+<link href="assets/site.css" rel="stylesheet"/>
+</head>
+<body>
+<a class="skip-link" href="#conteudo">Saltar para o conteúdo</a>
+<header class="site-header" id="topo">
+<div class="container nav-wrap">
+<a class="brand" href="index.html#inicio">Ano letivo 2026/2027</a>
+<button aria-controls="mainNav" aria-expanded="false" aria-label="Abrir menu" class="menu-toggle" id="menuToggle" type="button"><span></span></button>
+<nav aria-label="Navegação principal">
+<ul class="nav-list" id="mainNav">
+<li class="nav-item"><a class="nav-link active" href="index.html#inicio">Início</a></li>
+<li class="nav-item dropdown" id="acervoDropdown">
+<button aria-controls="acervoMenu" aria-expanded="false" class="dropdown-toggle" id="acervoToggle" type="button">Acervo <span aria-hidden="true" class="dropdown-caret"></span></button>
+<ul class="dropdown-menu" id="acervoMenu">
+<li><a href="legislacao.html">Legislação</a></li>
+<li><a href="documentos-tecnicos.html">Documentos Técnicos</a></li>
+<li><a href="bibliografia.html">Bibliografia</a></li>
+<li><a href="cartas-patrimoniais.html">Cartas</a></li>
+</ul>
+</li>
+<li class="nav-item"><a class="nav-link" href="multimedia.html">Multimédia</a></li>
+<li class="nav-item"><a class="nav-link" href="index.html#aulas">Aulas</a></li>
+<li class="nav-item"><a class="nav-link" href="ligacoes.html">Ligações</a></li>
+</ul>
+</nav>
+</div>
+</header>
+<main id="conteudo">
+<section aria-label="Apresentação do acervo documental" class="hero" id="inicio">
+<div class="container">
+<div class="hero-content reveal">
+<h1>Património Cultural</h1>
+<p class="hero-subtitle">ACERVO DOCUMENTAL</p>
+<p class="hero-note">Documentos disponíveis apenas para alunas da disciplina de Património Cultural 2026/2027.</p>
+<div class="button-row">
+<a class="btn" href="#pesquisa">Pesquisar</a>
+<button class="btn secondary" id="installButton" type="button">Instalar no telemóvel</button>
+<button class="btn secondary" id="favoriteButton" type="button">Adicionar aos favoritos</button>
+</div>
+</div>
+</div>
+</section>
+
+<section class="section soft" id="pesquisa">
+<div class="container">
+<div class="collection-heading reveal">
+<h2 class="section-title">Pesquisa</h2>
+<p class="section-subtitle">Encontre rapidamente o documento de que necessita</p>
+
+</div>
+<p class="global-record-count reveal"><strong id="globalRecordCount">0</strong> <span id="globalRecordPhrase">registos disponíveis para consulta e transferência</span></p>
+<div class="search-shell reveal">
+<form class="search-box" id="searchForm" role="search">
+<label for="siteSearch">Pesquisar no acervo</label>
+<input autocomplete="off" id="siteSearch" placeholder="Pesquisar documento, legislação, carta, bibliografia ou sessão…" type="search"/>
+<button class="btn" id="searchButton" type="submit">Procurar</button>
+</form>
+<div aria-live="polite" class="search-meta" id="searchMeta"></div>
+</div>
+</div>
+</section>
+<section class="section" id="legislacao">
+<div class="container">
+<div class="collection-heading reveal">
+<h2 class="section-title">Legislação</h2>
+<p class="section-subtitle">Enquadramento jurídico da proteção e salvaguarda patrimonial</p>
+<p class="section-intro">Selecione um domínio para abrir a página de legislação e consultar os diplomas correspondentes.</p>
+</div>
+<ul aria-label="Categorias de legislação" class="cards-grid searchable-grid center-last-two" id="legislationGrid"></ul>
+</div>
+</section>
+<section class="section grey" id="documentos-tecnicos">
+<div class="container">
+<div class="collection-heading reveal">
+<h2 class="section-title">Documentos Técnicos</h2>
+<p class="section-subtitle">Instrumentos de referência nacionais e internacionais</p>
+<p class="section-intro">Orientações, recomendações e documentos produzidos por entidades especializadas para apoiar a classificação, conservação, gestão e valorização do património.</p>
+</div>
+<ul aria-label="Categorias de documentos técnicos" class="cards-grid searchable-grid center-two" id="technicalGrid"></ul>
+</div>
+</section>
+<section class="section" id="bibliografia">
+<div class="container">
+<div class="collection-heading reveal">
+<h2 class="section-title">Bibliografia</h2>
+<p class="section-subtitle">Leituras para aprofundar os temas abordados nas aulas</p>
+<p class="section-intro">Seleção de livros, artigos científicos e publicações de referência para aprofundamento dos temas abordados nas aulas.</p>
+</div>
+<ul aria-label="Categorias de bibliografia" class="cards-grid searchable-grid" id="bibliographyGrid"></ul>
+</div>
+</section>
+<section class="section soft" id="cartas">
+<div class="container">
+<div class="collection-heading reveal">
+<h2 class="section-title">Cartas Patrimoniais</h2>
+<p class="section-subtitle">Princípios doutrinários da conservação e do restauro</p>
+<p class="section-intro">Cartas, convenções, declarações, recomendações e princípios nacionais e internacionais fundamentais para o estudo do património cultural.</p>
+</div>
+<ul aria-label="Categorias de cartas patrimoniais" class="cards-grid searchable-grid center-two" id="chartersGrid"></ul>
+</div>
+</section>
+<section class="section dark" id="multimedia">
+<div class="container">
+<div class="collection-heading reveal">
+<h2 class="section-title">Multimédia</h2>
+<p class="section-subtitle">Vídeos exibidos nas aulas e recomendações complementares</p>
+<p class="section-intro">Vídeos e conteúdos sonoros selecionados para acompanhar e aprofundar os temas abordados nas aulas.</p>
+</div>
+<ul aria-label="Conteúdos multimédia" class="cards-grid searchable-grid center-three" id="mediaGrid"></ul>
+</div>
+</section>
+<section class="section grey" id="aulas">
+<div class="container">
+<div class="collection-heading reveal">
+<h2 class="section-title">Apresentações das aulas</h2>
+<p class="section-subtitle">Uma sessão por semana, disponível após a respetiva aula</p>
+<p class="section-intro"><strong>Documentos disponíveis apenas para alunas da disciplina de Património Cultural 2026/2027.</strong> Utilize a conta Google previamente autorizada. Confirme que iniciou sessão na conta Google associada ao endereço fornecido ao professor. A partilha do endereço deste site não concede acesso aos ficheiros.</p>
+</div>
+<div class="sessions-viewport">
+<div aria-label="Apresentações das sessões" class="sessions-grid searchable-grid" id="sessionsGrid"></div>
+<div class="sessions-empty" id="sessionsEmpty" role="status">Ainda não existem apresentações disponíveis para mostrar.</div>
+</div>
+<div class="sessions-controls" id="sessionsControls">
+<div aria-label="Navegação entre grupos de sessões" class="page-arrows">
+<button aria-label="Sessões anteriores" class="page-arrow" id="previousSessions" type="button">‹</button>
+<button aria-label="Próximas sessões" class="page-arrow" id="nextSessions" type="button">›</button>
+<span aria-live="polite" class="page-status" id="pageStatus"></span>
+</div>
+<button class="btn dark-secondary" id="showAvailableSessions" type="button">Mostrar todas as aulas disponíveis</button>
+</div>
+</div>
+</section>
+</main>
+<footer class="site-footer">
+<div class="container">
+<ul class="footer-nav">
+<li><a href="index.html#inicio">Início</a></li>
+<li><a href="legislacao.html">Legislação</a></li>
+<li><a href="documentos-tecnicos.html">Documentos Técnicos</a></li>
+<li><a href="bibliografia.html">Bibliografia</a></li>
+<li><a href="cartas-patrimoniais.html">Cartas</a></li>
+<li><a href="multimedia.html">Multimédia</a></li>
+<li><a href="index.html#aulas">Aulas</a></li>
+<li><a href="ligacoes.html">Ligações</a></li>
+</ul>
+<p class="footer-contact"><a aria-label="Enviar email para Nuno Pereira" class="footer-email" href="mailto:nunopereirautl@gmail.com"><svg aria-hidden="true" viewbox="0 0 24 24"><path d="M20 4H4a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2V6a2 2 0 0 0-2-2Zm0 4-8 5-8-5V6l8 5 8-5v2Z" fill="currentColor"></path></svg>nunopereirautl@gmail.com</a></p>
+<p class="footer-copy"><strong>© 2026–2027 Nuno Pereira.</strong> Disciplina de Património Cultural. Documentos disponíveis exclusivamente para utilização pedagógica pelas alunas autorizadas.</p>
+</div>
+</footer>
+<div class="install-banner" id="installBanner" role="status"><p><strong>Instalar no telemóvel</strong><br/>Guarde este acervo no ecrã principal para acesso mais rápido.</p><button class="btn small" id="installBannerButton" type="button">Instalar</button></div>
+<div aria-labelledby="dialogTitle" aria-modal="true" class="dialog-backdrop" id="infoDialog" role="dialog"><div class="dialog"><h2 id="dialogTitle">Informação</h2><p id="dialogText"></p><button class="btn" id="dialogClose" type="button">Fechar</button></div></div>
+<script defer="" src="assets/catalog-data.js"></script>
+<script defer="" src="assets/site.js"></script>
+<!-- Espaço reservado para Google Analytics. -->
+</body>
+</html>
