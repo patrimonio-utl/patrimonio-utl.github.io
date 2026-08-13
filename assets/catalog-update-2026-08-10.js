@@ -2,6 +2,18 @@
   const catalog = window.PATRIMONIO_CATALOG;
   if (!catalog) return;
 
+  const diplomasAExcluir = new Set([
+    "lei-n-º-53-2012-de-5-de-setembro",
+    "lei-n-º-19-2014-de-14-de-abril",
+    "lei-n-º-26-2016-de-22-de-agosto",
+    "portaria-n-º-112-2023-de-27-de-abril",
+    "resolucao-do-conselho-de-ministros-n-º-125-2026-de-17-de-junho"
+  ]);
+
+  catalog.legislacao?.forEach(category => {
+    category.items = category.items.filter(item => !diplomasAExcluir.has(item.recordId));
+  });
+
   const transversal = catalog.legislacao?.find(category => category.id === "transversal");
   if (transversal) {
     const novosDiplomas = [
