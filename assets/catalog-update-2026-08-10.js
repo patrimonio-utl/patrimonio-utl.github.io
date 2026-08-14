@@ -49,9 +49,22 @@
       recordId: "despacho-normativo-n-º-3-2006-de-25-de-janeiro"
     };
     if (!movelMuseologico.items.some(existing => existing.recordId === despachoCredenciacao.recordId)) {
-      movelMuseologico.items.push(despachoCredenciacao);
+      const despachoNormativo4Index = movelMuseologico.items.findIndex(item => item.recordId === "despacho-normativo-n-º-4-2025-de-8-de-abril");
+      if (despachoNormativo4Index >= 0) movelMuseologico.items.splice(despachoNormativo4Index, 0, despachoCredenciacao);
+      else movelMuseologico.items.push(despachoCredenciacao);
     }
   }
+
+  const titulosSessoes = new Map([
+    [1, "Abertura do PCIII: atualidade patrimonial, programa, metodologia, acervo documental e revisão de PCI/PCII"],
+    [2, "Património Desaparecido: o que Portugal perdeu"],
+    [3, "Direito do Património"],
+    [4, "Conservação e restauro: áreas e especializações"]
+  ]);
+  (catalog.aulas || []).forEach(sessao => {
+    const numero = Number(sessao.number);
+    if (titulosSessoes.has(numero)) sessao.title = titulosSessoes.get(numero);
+  });
 
   const exibidos = catalog.multimedia?.find(category => category.id === "exibidos");
   if (exibidos) {
