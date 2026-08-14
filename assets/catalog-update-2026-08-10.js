@@ -39,6 +39,20 @@
     });
   }
 
+  const movelMuseologico = catalog.legislacao?.find(category => category.id === "movel-museologico");
+  if (movelMuseologico) {
+    const despachoCredenciacao = {
+      title: "Despacho Normativo n.º 3/2006, de 25 de janeiro",
+      description: "Aprova o formulário de candidatura à credenciação de museus, a documentação obrigatória a entregar com o pedido e as respetivas instruções de preenchimento.",
+      viewUrl: "https://drive.google.com/file/d/1qcAaj8j1i7AmxY9R9RXfHcl1XTx014z4/view?usp=drive_link",
+      downloadUrl: "https://drive.google.com/uc?export=download&id=1qcAaj8j1i7AmxY9R9RXfHcl1XTx014z4",
+      recordId: "despacho-normativo-n-º-3-2006-de-25-de-janeiro"
+    };
+    if (!movelMuseologico.items.some(existing => existing.recordId === despachoCredenciacao.recordId)) {
+      movelMuseologico.items.push(despachoCredenciacao);
+    }
+  }
+
   const exibidos = catalog.multimedia?.find(category => category.id === "exibidos");
   if (exibidos) {
     const novosVideos = [
