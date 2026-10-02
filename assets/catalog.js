@@ -45,7 +45,8 @@ function actionButtons(item) {
 
 function documentTemplate(item) {
   const search = normalise([item.title, item.description].filter(Boolean).join(" "));
-  return `<li class="document-item searchable-document" data-search="${safeText(search)}"><div class="document-link"><span class="document-icon" aria-hidden="true">${safeText(item.iconLabel || (item.externalUrl ? "LINK" : "PDF"))}</span><span class="document-copy"><span class="document-title">${safeText(item.title)}</span>${item.description ? `<span class="document-description">${safeText(item.description)}</span>` : ""}<span class="document-actions">${actionButtons(item)}</span></span></div></li>`;
+  const icon = catalogKey === "ligacoes" ? "" : `<span class="document-icon" aria-hidden="true">${safeText(item.iconLabel || (item.externalUrl ? "LINK" : "PDF"))}</span>`;
+  return `<li class="document-item searchable-document" data-search="${safeText(search)}"><div class="document-link">${icon}<span class="document-copy"><span class="document-title">${safeText(item.title)}</span>${item.description ? `<span class="document-description">${safeText(item.description)}</span>` : ""}<span class="document-actions">${actionButtons(item)}</span></span></div></li>`;
 }
 
 function countRecords(categories) {
