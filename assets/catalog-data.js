@@ -80,6 +80,20 @@ window.PATRIMONIO_CATALOG = {
           "viewUrl": "https://drive.google.com/file/d/1uO6zccfyA9NN0EjLDdDkTcpyk94Rwguz/view?usp=drive_link",
           "downloadUrl": "https://drive.google.com/uc?export=download&id=1uO6zccfyA9NN0EjLDdDkTcpyk94Rwguz",
           "recordId": "decreto-do-presidente-da-republica-n-º-65-2008-de-12-de-setembro"
+        },
+        {
+          "title": "Decreto-Lei n.º 35/2018, de 18 de maio",
+          "description": "Procede à primeira alteração ao regime do Fundo de Salvaguarda do Património Cultural, adequando os seus órgãos à estrutura dos serviços da cultura e afetando ao Fundo receitas provenientes de coimas.",
+          "viewUrl": "https://drive.google.com/file/d/1VqKq_7SYI_1ka5TKy8mUEKPQw5aXR6qr/view?usp=drive_link",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1VqKq_7SYI_1ka5TKy8mUEKPQw5aXR6qr",
+          "recordId": "decreto-lei-n-º-35-2018-de-18-de-maio"
+        },
+        {
+          "title": "Decreto-Lei n.º 42/2021, de 7 de junho",
+          "description": "Procede à segunda alteração ao regime do Fundo de Salvaguarda do Património Cultural, reforçando o financiamento de investimentos urgentes em património imóvel classificado do Estado e aditando novas fontes de receita.",
+          "viewUrl": "https://drive.google.com/file/d/14bK_rJ6a1XIm2uzENzscARIRbIi-unK_/view?usp=drive_link",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=14bK_rJ6a1XIm2uzENzscARIRbIi-unK_",
+          "recordId": "decreto-lei-n-º-42-2021-de-7-de-junho"
         }
       ]
     },
@@ -240,25 +254,11 @@ window.PATRIMONIO_CATALOG = {
           "recordId": "decreto-lei-n-º-447-88-de-10-de-dezembro"
         },
         {
-          "title": "Lei n.º 26/2016, de 22 de agosto",
-          "description": "Regula o acesso aos documentos administrativos e à informação administrativa e ambiental, bem como a reutilização dessa informação.",
-          "viewUrl": "https://drive.google.com/file/d/1wCOyGagh71dzmnRYPacOpSxd2nEeGZQM/view?usp=drive_link",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1wCOyGagh71dzmnRYPacOpSxd2nEeGZQM",
-          "recordId": "lei-n-º-26-2016-de-22-de-agosto"
-        },
-        {
           "title": "Lei n.º 107/2001, de 8 de setembro",
           "description": "Define o património arquivístico e estabelece os princípios da sua proteção, inventariação, conservação e acesso.",
           "viewUrl": "https://drive.google.com/file/d/1nm2fHu5W2fqT_qyfdRmSHnk8K-mi0713/view?usp=drive_link",
           "downloadUrl": "https://drive.google.com/uc?export=download&id=1nm2fHu5W2fqT_qyfdRmSHnk8K-mi0713",
           "recordId": "lei-n-º-107-2001-de-8-de-setembro"
-        },
-        {
-          "title": "Portaria n.º 112/2023, de 27 de abril",
-          "description": "Aprova o Regulamento para a Classificação e Avaliação da Informação Arquivística da Administração Local.",
-          "viewUrl": "https://drive.google.com/file/d/14z7EzE0FDSAsbrEkcmU_bjBe-ggIzPjk/view?usp=drive_link",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=14z7EzE0FDSAsbrEkcmU_bjBe-ggIzPjk",
-          "recordId": "portaria-n-º-112-2023-de-27-de-abril"
         }
       ]
     },
@@ -502,6 +502,13 @@ window.PATRIMONIO_CATALOG = {
           "recordId": "decreto-lei-n-º-148-2015-de-4-de-agosto"
         },
         {
+          "title": "Despacho Normativo n.º 3/2006, de 25 de janeiro",
+          "description": "Aprova o formulário de candidatura à credenciação de museus, a documentação obrigatória a entregar com o pedido e as respetivas instruções de preenchimento.",
+          "viewUrl": "https://drive.google.com/file/d/1qcAaj8j1i7AmxY9R9RXfHcl1XTx014z4/view?usp=drive_link",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1qcAaj8j1i7AmxY9R9RXfHcl1XTx014z4",
+          "recordId": "despacho-normativo-n-º-3-2006-de-25-de-janeiro"
+        },
+        {
           "title": "Despacho Normativo n.º 4/2025, de 8 de abril",
           "description": "Aprova o regulamento atual do programa ProMuseus, destinado a apoiar a qualificação, modernização e desenvolvimento dos museus integrados na Rede Portuguesa de Museus.",
           "viewUrl": "https://drive.google.com/file/d/1iiZ6LOsPUzImreaH21rbn3ay29QTQ5ms/view?usp=drive_link",
@@ -564,20 +571,6 @@ window.PATRIMONIO_CATALOG = {
           "recordId": "decreto-lei-n-º-142-2008-de-24-de-julho-na-redacao-atual"
         },
         {
-          "title": "Lei n.º 19/2014, de 14 de abril",
-          "description": "Define as bases da política de ambiente e reconhece a paisagem, a biodiversidade e a geodiversidade como componentes fundamentais do património natural.",
-          "viewUrl": "https://drive.google.com/file/d/1jV-V_Ub7PE2mrk3-frgVei0bFMqHuCa8/view?usp=drive_link",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1jV-V_Ub7PE2mrk3-frgVei0bFMqHuCa8",
-          "recordId": "lei-n-º-19-2014-de-14-de-abril"
-        },
-        {
-          "title": "Lei n.º 53/2012, de 5 de setembro",
-          "description": "Estabelece o regime jurídico da classificação de arvoredo de interesse público.",
-          "viewUrl": "https://drive.google.com/file/d/1p9g4eOhAte7rgm2lFJpy-FnlpHli0kdb/view?usp=drive_link",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1p9g4eOhAte7rgm2lFJpy-FnlpHli0kdb",
-          "recordId": "lei-n-º-53-2012-de-5-de-setembro"
-        },
-        {
           "title": "Portaria n.º 124/2014, de 24 de junho",
           "description": "Define os critérios, procedimentos e parâmetros aplicáveis à classificação e ao registo de árvores e conjuntos arbóreos de interesse público.",
           "viewUrl": "https://drive.google.com/file/d/1JK9eHNvRRBUdf4bpfxSGf9oZJBqiwpWT/view?usp=drive_link",
@@ -590,13 +583,6 @@ window.PATRIMONIO_CATALOG = {
           "viewUrl": "https://drive.google.com/file/d/1cGrUDD8Y65NcgzIfwVZ821Ho67e_RKTf/view?usp=drive_link",
           "downloadUrl": "https://drive.google.com/uc?export=download&id=1cGrUDD8Y65NcgzIfwVZ821Ho67e_RKTf",
           "recordId": "resolucao-do-conselho-de-ministros-n-º-45-2015-de-7-de-julho"
-        },
-        {
-          "title": "Resolução do Conselho de Ministros n.º 125/2026, de 17 de junho",
-          "description": "Revê a Estratégia Nacional de Conservação da Natureza e Biodiversidade 2030 e reforça a proteção da biodiversidade, geodiversidade e património geológico.",
-          "viewUrl": "https://drive.google.com/file/d/1_OOnWcmx0SMXd1ZyVD8ZL3axX62grL3X/view?usp=drive_link",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=1_OOnWcmx0SMXd1ZyVD8ZL3axX62grL3X",
-          "recordId": "resolucao-do-conselho-de-ministros-n-º-125-2026-de-17-de-junho"
         }
       ]
     }
@@ -604,7 +590,7 @@ window.PATRIMONIO_CATALOG = {
   "documentos-tecnicos": [
     {
       "id": "internacionais",
-      "title": "Documentos UNESCO",
+      "title": "Documentos Internacionais",
       "items": [
         {
           "title": "Carta do ICOMOS para a Interpretação e Apresentação de Sítios do Património Cultural",
@@ -1489,6 +1475,56 @@ window.PATRIMONIO_CATALOG = {
           "downloadLabel": "Transferir vídeo",
           "recordId": "unesco-memory-of-the-world",
           "iconLabel": "VÍDEO"
+        },
+        {
+          "title": "Barro preto de Bisalhães",
+          "description": "Vídeo exibido nas aulas.",
+          "viewUrl": "https://drive.google.com/file/d/1IoBhABihhOZ25SX7MD6cgADRFOARy03i/view?usp=drive_link",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1IoBhABihhOZ25SX7MD6cgADRFOARy03i",
+          "viewLabel": "Ver vídeo",
+          "downloadLabel": "Transferir vídeo",
+          "recordId": "barro-preto-de-bisalhaes",
+          "iconLabel": "VÍDEO"
+        },
+        {
+          "title": "Muros de pedra solta",
+          "description": "Vídeo exibido nas aulas.",
+          "viewUrl": "https://drive.google.com/file/d/1UaXGASDKFxbHWwgFl-CDU0WY-CX7pQFp/view?usp=drive_link",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1UaXGASDKFxbHWwgFl-CDU0WY-CX7pQFp",
+          "viewLabel": "Ver vídeo",
+          "downloadLabel": "Transferir vídeo",
+          "recordId": "muros-de-pedra-solta",
+          "iconLabel": "VÍDEO"
+        },
+        {
+          "title": "Teatro Dom Roberto",
+          "description": "Vídeo exibido nas aulas.",
+          "viewUrl": "https://drive.google.com/file/d/1Kh9XjogZwhvxd2I855ZJiK4yLyfVkbBU/view?usp=drive_link",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1Kh9XjogZwhvxd2I855ZJiK4yLyfVkbBU",
+          "viewLabel": "Ver vídeo",
+          "downloadLabel": "Transferir vídeo",
+          "recordId": "teatro-dom-roberto",
+          "iconLabel": "VÍDEO"
+        },
+        {
+          "title": "Tomar Cidade Templária",
+          "description": "Vídeo exibido nas aulas.",
+          "viewUrl": "https://drive.google.com/file/d/1gM0krIFp4BWR8GryIx7xue-nEumEn0RP/view?usp=drive_link",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1gM0krIFp4BWR8GryIx7xue-nEumEn0RP",
+          "viewLabel": "Ver vídeo",
+          "downloadLabel": "Transferir vídeo",
+          "recordId": "tomar-cidade-templaria",
+          "iconLabel": "VÍDEO"
+        },
+        {
+          "title": "Visita Guiada à Exposição René Lalique e a Idade do Vidro",
+          "description": "Vídeo exibido nas aulas.",
+          "viewUrl": "https://drive.google.com/file/d/1uODTEoHG2wQ18mPI5LFIod0rDDNu_DGc/view?usp=drive_link",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1uODTEoHG2wQ18mPI5LFIod0rDDNu_DGc",
+          "viewLabel": "Ver vídeo",
+          "downloadLabel": "Transferir vídeo",
+          "recordId": "visita-guiada-a-exposicao-rene-lalique-e-a-idade-do-vidro",
+          "iconLabel": "VÍDEO"
         }
       ]
     },
@@ -1525,7 +1561,7 @@ window.PATRIMONIO_CATALOG = {
           "externalUrl": "https://www.museusemonumentos.pt/pt"
         },
         {
-          "title": "Pesquisa de Património Imóvel",
+          "title": "Ulysses — Pesquisa de Património Imóvel",
           "externalUrl": "https://imovel.patrimoniocultural.gov.pt/"
         },
         {
@@ -1579,6 +1615,50 @@ window.PATRIMONIO_CATALOG = {
         {
           "title": "GECoRPA",
           "externalUrl": "https://gecorpa.pt/"
+        },
+        {
+          "title": "Portal do Arqueólogo",
+          "externalUrl": "https://arqueologia.patrimoniocultural.pt/"
+        },
+        {
+          "title": "Atlas do Património Classificado e em Vias de Classificação",
+          "externalUrl": "https://pcip.maps.arcgis.com/apps/webappviewer/index.html?id=7f7d5674280f41849c0a0869ced22d91"
+        },
+        {
+          "title": "Lista Indicativa de Portugal — UNESCO",
+          "externalUrl": "https://whc.unesco.org/en/tentativelists/action=listtentative&state=pt"
+        },
+        {
+          "title": "Património Cultural Imaterial de Portugal — UNESCO",
+          "externalUrl": "https://ich.unesco.org/en/state/portugal-PT"
+        },
+        {
+          "title": "Memory of the World — UNESCO",
+          "externalUrl": "https://www.unesco.org/en/memory-world"
+        },
+        {
+          "title": "RAIZ — Catálogo das coleções dos museus e palácios",
+          "externalUrl": "https://raiz.museusemonumentos.pt/"
+        },
+        {
+          "title": "ICOM Portugal",
+          "externalUrl": "https://icom-portugal.org/"
+        },
+        {
+          "title": "ICOMOS Internacional",
+          "externalUrl": "https://www.icomos.org/"
+        },
+        {
+          "title": "ICCROM",
+          "externalUrl": "https://www.iccrom.org/"
+        },
+        {
+          "title": "Europeana — Coleções",
+          "externalUrl": "https://www.europeana.eu/pt/collections"
+        },
+        {
+          "title": "Portal Português de Arquivos",
+          "externalUrl": "https://portal.arquivos.pt/"
         }
       ]
     }
@@ -1688,8 +1768,8 @@ window.PATRIMONIO_CATALOG = {
     ],
     "documentos-tecnicos": [
       {
-        "title": "Documentos UNESCO",
-        "description": "Orientações, recomendações, critérios e princípios produzidos no âmbito da UNESCO.",
+        "title": "Documentos Internacionais",
+        "description": "Orientações, recomendações, critérios e princípios de organismos internacionais de referência, incluindo UNESCO e ICOMOS.",
         "href": "documentos-tecnicos.html#internacionais",
         "images": [
           "assets/imagens-cartoes/pc11.jpg"
@@ -1870,32 +1950,32 @@ window.PATRIMONIO_CATALOG = {
   "aulas": [
     {
       "number": 1,
-      "date": "Data da aula",
-      "title": "Título da apresentação",
+      "date": "07/10/2026",
+      "title": "Abertura do PCIII + Património português em números",
       "viewUrl": "",
       "downloadUrl": "",
       "status": "brevemente"
     },
     {
       "number": 2,
-      "date": "Data da aula",
-      "title": "Título da apresentação",
+      "date": "14/10/2026",
+      "title": "Património Desaparecido: o que Portugal perdeu",
       "viewUrl": "",
       "downloadUrl": "",
       "status": "brevemente"
     },
     {
       "number": 3,
-      "date": "Data da aula",
-      "title": "Título da apresentação",
+      "date": "21/10/2026",
+      "title": "Património em risco: Os 7 Mais Ameaçados de 2026",
       "viewUrl": "",
       "downloadUrl": "",
       "status": "brevemente"
     },
     {
       "number": 4,
-      "date": "Data da aula",
-      "title": "Título da apresentação",
+      "date": "28/10/2026",
+      "title": "Conservação e restauro: áreas e especializações",
       "viewUrl": "",
       "downloadUrl": "",
       "status": "brevemente"
@@ -2126,22 +2206,6 @@ window.PATRIMONIO_CATALOG = {
     },
     {
       "number": 33,
-      "date": "Data da aula",
-      "title": "Título da apresentação",
-      "viewUrl": "",
-      "downloadUrl": "",
-      "status": "brevemente"
-    },
-    {
-      "number": 34,
-      "date": "Data da aula",
-      "title": "Título da apresentação",
-      "viewUrl": "",
-      "downloadUrl": "",
-      "status": "brevemente"
-    },
-    {
-      "number": 35,
       "date": "Data da aula",
       "title": "Título da apresentação",
       "viewUrl": "",
