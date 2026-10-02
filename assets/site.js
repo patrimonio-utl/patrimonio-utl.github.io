@@ -206,13 +206,9 @@ searchInput?.addEventListener("search", () => { if (!searchInput.value) applySea
 document.getElementById("favoriteButton")?.addEventListener("click", () => { const mobile = /Android|iPhone|iPad|iPod/i.test(navigator.userAgent); openDialog("Adicionar aos favoritos", mobile ? "Abra o menu do navegador e escolha <strong>Adicionar aos favoritos</strong>, <strong>Adicionar marcador</strong> ou <strong>Adicionar ao ecrã principal</strong>." : "No Windows, pressione <strong>Ctrl + D</strong>. No Mac, pressione <strong>⌘ + D</strong>."); });
 let deferredPrompt = null;
 const installButton = document.getElementById("installButton");
-const installBanner = document.getElementById("installBanner");
-const installBannerButton = document.getElementById("installBannerButton");
-window.addEventListener("beforeinstallprompt", event => { event.preventDefault(); deferredPrompt = event; installBanner.classList.add("show"); });
-async function installApp() { if (deferredPrompt) { deferredPrompt.prompt(); await deferredPrompt.userChoice; deferredPrompt = null; installBanner.classList.remove("show"); return; } const ios = /iPad|iPhone|iPod/.test(navigator.userAgent); openDialog("Instalar no telemóvel", ios ? "No Safari, toque em <strong>Partilhar</strong> e escolha <strong>Adicionar ao ecrã principal</strong>." : "Abra o menu do navegador e escolha <strong>Instalar aplicação</strong> ou <strong>Adicionar ao ecrã principal</strong>. A instalação exige que o site esteja publicado através de HTTPS."); }
+window.addEventListener("beforeinstallprompt", event => { event.preventDefault(); deferredPrompt = event; });
+async function installApp() { if (deferredPrompt) { deferredPrompt.prompt(); await deferredPrompt.userChoice; deferredPrompt = null; return; } const ios = /iPad|iPhone|iPod/.test(navigator.userAgent); openDialog("Instalar no telemóvel", ios ? "No Safari, toque em <strong>Partilhar</strong> e escolha <strong>Adicionar ao ecrã principal</strong>." : "Abra o menu do navegador e escolha <strong>Instalar aplicação</strong> ou <strong>Adicionar ao ecrã principal</strong>. A instalação exige que o site esteja publicado através de HTTPS."); }
 installButton?.addEventListener("click", installApp);
-installBannerButton?.addEventListener("click", installApp);
-window.addEventListener("appinstalled", () => installBanner.classList.remove("show"));
 
 /* Animações */
 let observer;
