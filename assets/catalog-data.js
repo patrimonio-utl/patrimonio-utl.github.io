@@ -1950,7 +1950,7 @@ window.PATRIMONIO_CATALOG = {
   "aulas": [
     {
       "number": 1,
-      "date": "07/10/2026",
+      "date": "06/10/2026",
       "title": "Abertura do PCIII + Património português em números",
       "viewUrl": "",
       "downloadUrl": "",
@@ -1958,7 +1958,7 @@ window.PATRIMONIO_CATALOG = {
     },
     {
       "number": 2,
-      "date": "14/10/2026",
+      "date": "13/10/2026",
       "title": "Património Desaparecido: o que Portugal perdeu",
       "viewUrl": "",
       "downloadUrl": "",
@@ -1966,7 +1966,7 @@ window.PATRIMONIO_CATALOG = {
     },
     {
       "number": 3,
-      "date": "21/10/2026",
+      "date": "20/10/2026",
       "title": "Património em risco: Os 7 Mais Ameaçados de 2026",
       "viewUrl": "",
       "downloadUrl": "",
@@ -1974,7 +1974,7 @@ window.PATRIMONIO_CATALOG = {
     },
     {
       "number": 4,
-      "date": "28/10/2026",
+      "date": "27/10/2026",
       "title": "Conservação e restauro: áreas e especializações",
       "viewUrl": "",
       "downloadUrl": "",
@@ -1982,232 +1982,232 @@ window.PATRIMONIO_CATALOG = {
     },
     {
       "number": 5,
-      "date": "Data da aula",
-      "title": "Título da apresentação",
+      "date": "03/11/2026",
+      "title": "Centros Históricos: património urbano entre conservação, turismo e vida quotidiana",
       "viewUrl": "",
       "downloadUrl": "",
       "status": "brevemente"
     },
     {
       "number": 6,
-      "date": "Data da aula",
-      "title": "Título da apresentação",
+      "date": "10/11/2026",
+      "title": "Património construído e a expansão urbana de Coimbra II",
       "viewUrl": "",
       "downloadUrl": "",
       "status": "brevemente"
     },
     {
       "number": 7,
-      "date": "Data da aula",
-      "title": "Título da apresentação",
+      "date": "17/11/2026",
+      "title": "Lojas com História",
       "viewUrl": "",
       "downloadUrl": "",
       "status": "brevemente"
     },
     {
       "number": 8,
-      "date": "Data da aula",
-      "title": "Título da apresentação",
+      "date": "24/11/2026",
+      "title": "Teatros e cinemas de Coimbra",
       "viewUrl": "",
       "downloadUrl": "",
       "status": "brevemente"
     },
     {
       "number": 9,
-      "date": "Data da aula",
-      "title": "Título da apresentação",
+      "date": "Data",
+      "title": "",
       "viewUrl": "",
       "downloadUrl": "",
       "status": "brevemente"
     },
     {
       "number": 10,
-      "date": "Data da aula",
-      "title": "Título da apresentação",
+      "date": "Data",
+      "title": "",
       "viewUrl": "",
       "downloadUrl": "",
       "status": "brevemente"
     },
     {
       "number": 11,
-      "date": "Data da aula",
-      "title": "Título da apresentação",
+      "date": "Data",
+      "title": "",
       "viewUrl": "",
       "downloadUrl": "",
       "status": "brevemente"
     },
     {
       "number": 12,
-      "date": "Data da aula",
-      "title": "Título da apresentação",
+      "date": "Data",
+      "title": "",
       "viewUrl": "",
       "downloadUrl": "",
       "status": "brevemente"
     },
     {
       "number": 13,
-      "date": "Data da aula",
-      "title": "Título da apresentação",
+      "date": "Data",
+      "title": "",
       "viewUrl": "",
       "downloadUrl": "",
       "status": "brevemente"
     },
     {
       "number": 14,
-      "date": "Data da aula",
-      "title": "Título da apresentação",
+      "date": "Data",
+      "title": "",
       "viewUrl": "",
       "downloadUrl": "",
       "status": "brevemente"
     },
     {
       "number": 15,
-      "date": "Data da aula",
-      "title": "Título da apresentação",
+      "date": "Data",
+      "title": "",
       "viewUrl": "",
       "downloadUrl": "",
       "status": "brevemente"
     },
     {
       "number": 16,
-      "date": "Data da aula",
-      "title": "Título da apresentação",
+      "date": "Data",
+      "title": "",
       "viewUrl": "",
       "downloadUrl": "",
       "status": "brevemente"
     },
     {
       "number": 17,
-      "date": "Data da aula",
-      "title": "Título da apresentação",
+      "date": "Data",
+      "title": "",
       "viewUrl": "",
       "downloadUrl": "",
       "status": "brevemente"
     },
     {
       "number": 18,
-      "date": "Data da aula",
-      "title": "Título da apresentação",
+      "date": "Data",
+      "title": "",
       "viewUrl": "",
       "downloadUrl": "",
       "status": "brevemente"
     },
     {
       "number": 19,
-      "date": "Data da aula",
-      "title": "Título da apresentação",
+      "date": "Data",
+      "title": "",
       "viewUrl": "",
       "downloadUrl": "",
       "status": "brevemente"
     },
     {
       "number": 20,
-      "date": "Data da aula",
-      "title": "Título da apresentação",
+      "date": "Data",
+      "title": "",
       "viewUrl": "",
       "downloadUrl": "",
       "status": "brevemente"
     },
     {
       "number": 21,
-      "date": "Data da aula",
-      "title": "Título da apresentação",
+      "date": "Data",
+      "title": "",
       "viewUrl": "",
       "downloadUrl": "",
       "status": "brevemente"
     },
     {
       "number": 22,
-      "date": "Data da aula",
-      "title": "Título da apresentação",
+      "date": "Data",
+      "title": "",
       "viewUrl": "",
       "downloadUrl": "",
       "status": "brevemente"
     },
     {
       "number": 23,
-      "date": "Data da aula",
-      "title": "Título da apresentação",
+      "date": "Data",
+      "title": "",
       "viewUrl": "",
       "downloadUrl": "",
       "status": "brevemente"
     },
     {
       "number": 24,
-      "date": "Data da aula",
-      "title": "Título da apresentação",
+      "date": "Data",
+      "title": "",
       "viewUrl": "",
       "downloadUrl": "",
       "status": "brevemente"
     },
     {
       "number": 25,
-      "date": "Data da aula",
-      "title": "Título da apresentação",
+      "date": "Data",
+      "title": "",
       "viewUrl": "",
       "downloadUrl": "",
       "status": "brevemente"
     },
     {
       "number": 26,
-      "date": "Data da aula",
-      "title": "Título da apresentação",
+      "date": "Data",
+      "title": "",
       "viewUrl": "",
       "downloadUrl": "",
       "status": "brevemente"
     },
     {
       "number": 27,
-      "date": "Data da aula",
-      "title": "Título da apresentação",
+      "date": "Data",
+      "title": "",
       "viewUrl": "",
       "downloadUrl": "",
       "status": "brevemente"
     },
     {
       "number": 28,
-      "date": "Data da aula",
-      "title": "Título da apresentação",
+      "date": "Data",
+      "title": "",
       "viewUrl": "",
       "downloadUrl": "",
       "status": "brevemente"
     },
     {
       "number": 29,
-      "date": "Data da aula",
-      "title": "Título da apresentação",
+      "date": "Data",
+      "title": "",
       "viewUrl": "",
       "downloadUrl": "",
       "status": "brevemente"
     },
     {
       "number": 30,
-      "date": "Data da aula",
-      "title": "Título da apresentação",
+      "date": "Data",
+      "title": "",
       "viewUrl": "",
       "downloadUrl": "",
       "status": "brevemente"
     },
     {
       "number": 31,
-      "date": "Data da aula",
-      "title": "Título da apresentação",
+      "date": "Data",
+      "title": "",
       "viewUrl": "",
       "downloadUrl": "",
       "status": "brevemente"
     },
     {
       "number": 32,
-      "date": "Data da aula",
-      "title": "Título da apresentação",
+      "date": "Data",
+      "title": "",
       "viewUrl": "",
       "downloadUrl": "",
       "status": "brevemente"
     },
     {
       "number": 33,
-      "date": "Data da aula",
-      "title": "Título da apresentação",
+      "date": "Data",
+      "title": "",
       "viewUrl": "",
       "downloadUrl": "",
       "status": "brevemente"
