@@ -1534,8 +1534,24 @@ window.PATRIMONIO_CATALOG = {
           "iconLabel": "VÍDEO"
         },
         {
-          "title": "Os antigos cinemas de Lisboa",
+          "title": "Castelo da Lousa - Mergulho",
           "description": "Vídeo exibido nas aulas.",
+          "viewUrl": "https://drive.google.com/file/d/16GL8ceyCnqB7VCsmiTNR4MbAO8aWUKE-/view?usp=drive_link",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=16GL8ceyCnqB7VCsmiTNR4MbAO8aWUKE-",
+          "viewLabel": "Ver vídeo",
+          "downloadLabel": "Transferir vídeo",
+          "recordId": "castelo-da-lousa-mergulho",
+          "iconLabel": "VÍDEO"
+        }
+      ]
+    },
+    {
+      "id": "recomendados",
+      "title": "Vídeos recomendados",
+      "items": [
+        {
+          "title": "Os antigos cinemas de Lisboa",
+          "description": "Vídeo recomendado.",
           "viewUrl": "https://drive.google.com/file/d/1-QcY8JBfP8_s5bQp32wjTX9rXvKs25bQ/view?usp=drive_link",
           "downloadUrl": "https://drive.google.com/uc?export=download&id=1-QcY8JBfP8_s5bQp32wjTX9rXvKs25bQ",
           "viewLabel": "Ver vídeo",
@@ -1545,7 +1561,7 @@ window.PATRIMONIO_CATALOG = {
         },
         {
           "title": "Sanatório-Albergaria Grandella",
-          "description": "Vídeo exibido nas aulas.",
+          "description": "Vídeo recomendado.",
           "viewUrl": "https://drive.google.com/file/d/1RxiMCkwZmdJ39UvBkPPkJeTTpN9GEIF9/view?usp=drive_link",
           "downloadUrl": "https://drive.google.com/uc?export=download&id=1RxiMCkwZmdJ39UvBkPPkJeTTpN9GEIF9",
           "viewLabel": "Ver vídeo",
@@ -1554,18 +1570,8 @@ window.PATRIMONIO_CATALOG = {
           "iconLabel": "VÍDEO"
         },
         {
-          "title": "Castelo da Lousa - Mergulho",
-          "description": "Vídeo exibido nas aulas.",
-          "viewUrl": "https://drive.google.com/file/d/16GL8ceyCnqB7VCsmiTNR4MbAO8aWUKE-/view?usp=drive_link",
-          "downloadUrl": "https://drive.google.com/uc?export=download&id=16GL8ceyCnqB7VCsmiTNR4MbAO8aWUKE-",
-          "viewLabel": "Ver vídeo",
-          "downloadLabel": "Transferir vídeo",
-          "recordId": "castelo-da-lousa-mergulho",
-          "iconLabel": "VÍDEO"
-        },
-        {
           "title": "Castelo da Lousa - Arqueologia",
-          "description": "Vídeo exibido nas aulas.",
+          "description": "Vídeo recomendado.",
           "viewUrl": "https://drive.google.com/file/d/1OY8hvMjZ8Zb6ezfUo7QNFDbzYaaT5dQJ/view?usp=drive_link",
           "downloadUrl": "https://drive.google.com/uc?export=download&id=1OY8hvMjZ8Zb6ezfUo7QNFDbzYaaT5dQJ",
           "viewLabel": "Ver vídeo",
@@ -1575,7 +1581,7 @@ window.PATRIMONIO_CATALOG = {
         },
         {
           "title": "Cineteatro Monumental",
-          "description": "Vídeo exibido nas aulas.",
+          "description": "Vídeo recomendado.",
           "viewUrl": "https://drive.google.com/file/d/1Gdl_a6R0mrfS83e-4i2jPSLXzM2CI5IZ/view?usp=drive_link",
           "downloadUrl": "https://drive.google.com/uc?export=download&id=1Gdl_a6R0mrfS83e-4i2jPSLXzM2CI5IZ",
           "viewLabel": "Ver vídeo",
@@ -1584,11 +1590,6 @@ window.PATRIMONIO_CATALOG = {
           "iconLabel": "VÍDEO"
         }
       ]
-    },
-    {
-      "id": "recomendados",
-      "title": "Vídeos recomendados",
-      "items": []
     },
     {
       "id": "audio",
