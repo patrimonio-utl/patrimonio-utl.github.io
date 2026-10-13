@@ -1113,6 +1113,13 @@ window.PATRIMONIO_CATALOG = {
           "viewUrl": "https://drive.google.com/file/d/1eFnaNSp_FUotneGRuhr6r6xO0ZOvGAue/view?usp=drive_link",
           "downloadUrl": "https://drive.google.com/uc?export=download&id=1eFnaNSp_FUotneGRuhr6r6xO0ZOvGAue",
           "recordId": "patrimonio-cultural-edificado-reflexoes-em-torno-da-gestao-do-patrimonio-classificado"
+        },
+        {
+          "title": "Ópera do Tejo. Investigação e reconstituição tridimensional",
+          "description": "Eduardo Francisco Durão Antunes",
+          "viewUrl": "https://drive.google.com/file/d/1P1YQfeWf1Se4GKUiMp-Yeu0br1M0yuon/view?usp=drive_link",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1P1YQfeWf1Se4GKUiMp-Yeu0br1M0yuon",
+          "recordId": "opera-do-tejo-investigacao-e-reconstituicao-tridimensional"
         }
       ]
     },
@@ -1524,6 +1531,56 @@ window.PATRIMONIO_CATALOG = {
           "viewLabel": "Ver vídeo",
           "downloadLabel": "Transferir vídeo",
           "recordId": "visita-guiada-a-exposicao-rene-lalique-e-a-idade-do-vidro",
+          "iconLabel": "VÍDEO"
+        },
+        {
+          "title": "Os antigos cinemas de Lisboa",
+          "description": "Vídeo exibido nas aulas.",
+          "viewUrl": "https://drive.google.com/file/d/1-QcY8JBfP8_s5bQp32wjTX9rXvKs25bQ/view?usp=drive_link",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1-QcY8JBfP8_s5bQp32wjTX9rXvKs25bQ",
+          "viewLabel": "Ver vídeo",
+          "downloadLabel": "Transferir vídeo",
+          "recordId": "os-antigos-cinemas-de-lisboa",
+          "iconLabel": "VÍDEO"
+        },
+        {
+          "title": "Sanatório-Albergaria Grandella",
+          "description": "Vídeo exibido nas aulas.",
+          "viewUrl": "https://drive.google.com/file/d/1RxiMCkwZmdJ39UvBkPPkJeTTpN9GEIF9/view?usp=drive_link",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1RxiMCkwZmdJ39UvBkPPkJeTTpN9GEIF9",
+          "viewLabel": "Ver vídeo",
+          "downloadLabel": "Transferir vídeo",
+          "recordId": "sanatorio-albergaria-grandella",
+          "iconLabel": "VÍDEO"
+        },
+        {
+          "title": "Castelo da Lousa - Mergulho",
+          "description": "Vídeo exibido nas aulas.",
+          "viewUrl": "https://drive.google.com/file/d/16GL8ceyCnqB7VCsmiTNR4MbAO8aWUKE-/view?usp=drive_link",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=16GL8ceyCnqB7VCsmiTNR4MbAO8aWUKE-",
+          "viewLabel": "Ver vídeo",
+          "downloadLabel": "Transferir vídeo",
+          "recordId": "castelo-da-lousa-mergulho",
+          "iconLabel": "VÍDEO"
+        },
+        {
+          "title": "Castelo da Lousa - Arqueologia",
+          "description": "Vídeo exibido nas aulas.",
+          "viewUrl": "https://drive.google.com/file/d/1OY8hvMjZ8Zb6ezfUo7QNFDbzYaaT5dQJ/view?usp=drive_link",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1OY8hvMjZ8Zb6ezfUo7QNFDbzYaaT5dQJ",
+          "viewLabel": "Ver vídeo",
+          "downloadLabel": "Transferir vídeo",
+          "recordId": "castelo-da-lousa-arqueologia",
+          "iconLabel": "VÍDEO"
+        },
+        {
+          "title": "Cineteatro Monumental",
+          "description": "Vídeo exibido nas aulas.",
+          "viewUrl": "https://drive.google.com/file/d/1Gdl_a6R0mrfS83e-4i2jPSLXzM2CI5IZ/view?usp=drive_link",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1Gdl_a6R0mrfS83e-4i2jPSLXzM2CI5IZ",
+          "viewLabel": "Ver vídeo",
+          "downloadLabel": "Transferir vídeo",
+          "recordId": "cineteatro-monumental",
           "iconLabel": "VÍDEO"
         }
       ]
@@ -1952,17 +2009,17 @@ window.PATRIMONIO_CATALOG = {
       "number": 1,
       "date": "06/10/2026",
       "title": "Abertura do PCIII + Património português em números",
-      "viewUrl": "",
-      "downloadUrl": "",
-      "status": "brevemente"
+      "viewUrl": "https://drive.google.com/file/d/1neqq8a7H_0DNM4xJUd26HX-uio0wJXfh/view?usp=drive_link",
+      "downloadUrl": "https://drive.google.com/uc?export=download&id=1neqq8a7H_0DNM4xJUd26HX-uio0wJXfh",
+      "status": "disponivel"
     },
     {
       "number": 2,
       "date": "13/10/2026",
       "title": "Património Desaparecido: o que Portugal perdeu",
-      "viewUrl": "",
-      "downloadUrl": "",
-      "status": "brevemente"
+      "viewUrl": "https://drive.google.com/file/d/1ZqijbMtGCvHVi_sMDj0PrwjxYKAHMa6_/view?usp=drive_link",
+      "downloadUrl": "https://drive.google.com/uc?export=download&id=1ZqijbMtGCvHVi_sMDj0PrwjxYKAHMa6_",
+      "status": "disponivel"
     },
     {
       "number": 3,
