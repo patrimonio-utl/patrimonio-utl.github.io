@@ -1,4 +1,4 @@
-const CACHE_NAME = 'patrimonio-cultural-v12';
+const CACHE_NAME = 'patrimonio-cultural-v13';
 const APP_SHELL = [
   "./", "./index.html", "./legislacao.html", "./documentos-tecnicos.html",
   "./cartas-patrimoniais.html", "./bibliografia.html", "./multimedia.html", "./ligacoes.html",
