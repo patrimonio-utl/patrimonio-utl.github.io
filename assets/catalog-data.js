@@ -2025,7 +2025,7 @@ window.PATRIMONIO_CATALOG = {
     {
       "number": 3,
       "date": "20/10/2026",
-      "title": "Património em risco: Os 7 Mais Ameaçados de 2026",
+      "title": "PATRIMÓNIO EM RISCO: O QUE PORTUGAL AINDA PODE PERDER",
       "viewUrl": "",
       "downloadUrl": "",
       "status": "brevemente"
