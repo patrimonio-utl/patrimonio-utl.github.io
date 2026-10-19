@@ -1072,6 +1072,13 @@ window.PATRIMONIO_CATALOG = {
           "viewUrl": "https://drive.google.com/file/d/1PRiWa6L74cTVsbZZDSzU16FJrkC2f5SM/view?usp=drive_link",
           "downloadUrl": "https://drive.google.com/uc?export=download&id=1PRiWa6L74cTVsbZZDSzU16FJrkC2f5SM",
           "recordId": "parque-arqueologico-vale-do-coa-portugal-complexo-rupestre-e-modelo-de-gestao-do-patrimonio-cultural"
+        },
+        {
+          "title": "Vila Nova de São Pedro e o Calcolítico no Ocidente Peninsular",
+          "description": "Mariana Diniz, Andrea Martins, César Neves, José Morais Arnaud",
+          "viewUrl": "https://drive.google.com/file/d/1wOLcEyZDsAQNH-zZ-mfYZ6ZFl_OUC8GZ/view?usp=drive_link",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1wOLcEyZDsAQNH-zZ-mfYZ6ZFl_OUC8GZ",
+          "recordId": "vila-nova-de-sao-pedro-e-o-calcolitico-no-ocidente-peninsular"
         }
       ]
     },
@@ -1120,6 +1127,13 @@ window.PATRIMONIO_CATALOG = {
           "viewUrl": "https://drive.google.com/file/d/1P1YQfeWf1Se4GKUiMp-Yeu0br1M0yuon/view?usp=drive_link",
           "downloadUrl": "https://drive.google.com/uc?export=download&id=1P1YQfeWf1Se4GKUiMp-Yeu0br1M0yuon",
           "recordId": "opera-do-tejo-investigacao-e-reconstituicao-tridimensional"
+        },
+        {
+          "title": "Estalagem da Serreta - A reabilitação de uma obra e do seu autor",
+          "description": "Rodrigo da Costa Gonçalves",
+          "viewUrl": "https://drive.google.com/file/d/1r3VmHiMVNMusEU3d1KCxfJcXX9yqaCup/view?usp=drive_link",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1r3VmHiMVNMusEU3d1KCxfJcXX9yqaCup",
+          "recordId": "estalagem-da-serreta-a-reabilitacao-de-uma-obra-e-do-seu-autor"
         }
       ]
     },
@@ -1223,6 +1237,34 @@ window.PATRIMONIO_CATALOG = {
           "viewUrl": "https://drive.google.com/file/d/1tt4Q9_4K5GVGfaqJZmY3s0pJQC1RuCOB/view?usp=drive_link",
           "downloadUrl": "https://drive.google.com/uc?export=download&id=1tt4Q9_4K5GVGfaqJZmY3s0pJQC1RuCOB",
           "recordId": "turismo-industrial-lista-de-recursos-nacional"
+        },
+        {
+          "title": "Fábrica da Pólvora de Vale de Milhaços - Importância da Protecção Legal do Património Industrial e potencialidades da musealização do circuito da pólvora negra",
+          "description": "Graça Filipe",
+          "viewUrl": "https://drive.google.com/file/d/1OnifAkbJCht0_-at3CLjT3lpJZB3qulR/view?usp=drive_link",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1OnifAkbJCht0_-at3CLjT3lpJZB3qulR",
+          "recordId": "fabrica-da-polvora-de-vale-de-milhacos-importancia-da-proteccao-legal-do-patrimonio-industrial-e-potencialidades-da-musealizacao-do-circuito-da-polvora-negra"
+        },
+        {
+          "title": "Along the Railway. Italian Industrial Design in Portugal",
+          "description": "Paulo Pereira",
+          "viewUrl": "https://drive.google.com/file/d/1liXCaPcpMDs9m76nIrewY7ND4xDQAmQr/view?usp=drive_link",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1liXCaPcpMDs9m76nIrewY7ND4xDQAmQr",
+          "recordId": "along-the-railway-italian-industrial-design-in-portugal"
+        },
+        {
+          "title": "A fábrica de moagem do Caramujo património industrial da Cova da Piedade. Percursos de salvaguarda e reutilização. Volume I",
+          "description": "Maria da Conceição da Costa Almeida Toscano",
+          "viewUrl": "https://drive.google.com/file/d/1r2-VIDgJzVvqkNRbAKwu4HuNc9VAuvwn/view?usp=drive_link",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1r2-VIDgJzVvqkNRbAKwu4HuNc9VAuvwn",
+          "recordId": "a-fabrica-de-moagem-do-caramujo-patrimonio-industrial-da-cova-da-piedade-percursos-de-salvaguarda-e-reutilizacao-volume-i"
+        },
+        {
+          "title": "A fábrica de moagem do Caramujo património industrial da Cova da Piedade. Percursos de salvaguarda e reutilização. Volume II",
+          "description": "Maria da Conceição da Costa Almeida Toscano",
+          "viewUrl": "https://drive.google.com/file/d/1FJS9G5sNN10VHlz30NM7FQBMKD9Q8Wej/view?usp=drive_link",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1FJS9G5sNN10VHlz30NM7FQBMKD9Q8Wej",
+          "recordId": "a-fabrica-de-moagem-do-caramujo-patrimonio-industrial-da-cova-da-piedade-percursos-de-salvaguarda-e-reutilizacao-volume-ii"
         }
       ]
     },
@@ -1587,6 +1629,56 @@ window.PATRIMONIO_CATALOG = {
           "viewLabel": "Ver vídeo",
           "downloadLabel": "Transferir vídeo",
           "recordId": "cineteatro-monumental",
+          "iconLabel": "VÍDEO"
+        },
+        {
+          "title": "Monte Palace - Abandonados - SIC",
+          "description": "Vídeo recomendado.",
+          "viewUrl": "https://drive.google.com/file/d/1CwU5vNh7p_mf8Y3bzvKeNMB-JQBEbl_b/view?usp=drive_link",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1CwU5vNh7p_mf8Y3bzvKeNMB-JQBEbl_b",
+          "viewLabel": "Ver vídeo",
+          "downloadLabel": "Transferir vídeo",
+          "recordId": "monte-palace-abandonados-sic",
+          "iconLabel": "VÍDEO"
+        },
+        {
+          "title": "Impacto da passagem da tempestade Kristin nos edifícios da Igreja - Santuário de Nossa Sra da Encarnação",
+          "description": "Vídeo recomendado.",
+          "viewUrl": "https://drive.google.com/file/d/13lMvLozYOPTWJDA4i4WZOSEPzyHG3SZd/view?usp=drive_link",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=13lMvLozYOPTWJDA4i4WZOSEPzyHG3SZd",
+          "viewLabel": "Ver vídeo",
+          "downloadLabel": "Transferir vídeo",
+          "recordId": "impacto-da-passagem-da-tempestade-kristin-nos-edificios-da-igreja-santuario-de-nossa-sra-da-encarnacao",
+          "iconLabel": "VÍDEO"
+        },
+        {
+          "title": "Foguete, um dos comboios mais importantes na história da CP e de Portugal",
+          "description": "Vídeo recomendado.",
+          "viewUrl": "https://drive.google.com/file/d/1rjvgP1c-0-fSqFTxjYwsqo2dfsWoo3aT/view?usp=drive_link",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1rjvgP1c-0-fSqFTxjYwsqo2dfsWoo3aT",
+          "viewLabel": "Ver vídeo",
+          "downloadLabel": "Transferir vídeo",
+          "recordId": "foguete-um-dos-comboios-mais-importantes-na-historia-da-cp-e-de-portugal",
+          "iconLabel": "VÍDEO"
+        },
+        {
+          "title": "Calcolítico Vila Nova de São Pedro - uma muralha; cinco milénios de perguntas",
+          "description": "Vídeo recomendado.",
+          "viewUrl": "https://drive.google.com/file/d/1uR5YIwQOY8OYiNN_VpX970T8c7I0f_xM/view?usp=drive_link",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1uR5YIwQOY8OYiNN_VpX970T8c7I0f_xM",
+          "viewLabel": "Ver vídeo",
+          "downloadLabel": "Transferir vídeo",
+          "recordId": "calcolitico-vila-nova-de-sao-pedro-uma-muralha-cinco-milenios-de-perguntas",
+          "iconLabel": "VÍDEO"
+        },
+        {
+          "title": "Calcolítico Vila Nova de São Pedro - Before Castles Discovering Portugal’s Colossal Chalcolithic Stronghold",
+          "description": "Vídeo recomendado.",
+          "viewUrl": "https://drive.google.com/file/d/1OAELEAUDeEyCBqxtbIZnDyYH75v9EiUL/view?usp=drive_link",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1OAELEAUDeEyCBqxtbIZnDyYH75v9EiUL",
+          "viewLabel": "Ver vídeo",
+          "downloadLabel": "Transferir vídeo",
+          "recordId": "calcolitico-vila-nova-de-sao-pedro-before-castles-discovering-portugals-colossal-chalcolithic-stronghold",
           "iconLabel": "VÍDEO"
         }
       ]
