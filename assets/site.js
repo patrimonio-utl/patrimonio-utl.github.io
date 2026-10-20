@@ -188,6 +188,14 @@ function getLatestAcervoUpdate() {
     });
   });
 
+  const sessionsKey = DATA.countConfig?.sessionsKey || "aulas";
+  (DATA[sessionsKey] || []).forEach(item => {
+    const date = item?.[dateField];
+    if (!date) return;
+    const batch = item?.[batchField] ? String(item[batchField]) : String(date);
+    entries.push({ catalogKey: "aulas", category: { id: "aulas", title: "Aulas" }, item, date: String(date), batch });
+  });
+
   if (!entries.length) return null;
   const latestBatch = entries.reduce((latest, entry) => entry.batch > latest ? entry.batch : latest, entries[0].batch);
   const updateEntries = entries.filter(entry => entry.batch === latestBatch);
