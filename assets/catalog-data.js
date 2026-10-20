@@ -2140,9 +2140,11 @@ window.PATRIMONIO_CATALOG = {
       "number": 3,
       "date": "20/10/2026",
       "title": "Património em risco: o que Portugal ainda pode perder",
-      "viewUrl": "",
-      "downloadUrl": "",
-      "status": "brevemente"
+      "viewUrl": "https://drive.google.com/file/d/1bteJ8Xe5Kd1UtLVNwQrmRJfMhK9vND7U/view?usp=drivesdk",
+      "downloadUrl": "https://drive.google.com/uc?export=download&id=1bteJ8Xe5Kd1UtLVNwQrmRJfMhK9vND7U",
+      "status": "disponivel",
+      "addedAt": "2026-10-19",
+      "updateBatch": "2026-10-19-01"
     },
     {
       "number": 4,
