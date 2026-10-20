@@ -50,6 +50,7 @@
 <p class="hero-note">Documentos disponíveis apenas para alunas da disciplina de Património Cultural 2026/2027.</p>
 <div class="button-row">
 <a class="btn" href="#pesquisa">Pesquisar</a>
+<button class="btn secondary recent-updates-button" id="recentUpdatesButton" type="button">Últimas entradas <span aria-hidden="true" class="recent-badge" id="recentUpdatesBadge">NOVO</span></button>
 <button class="btn secondary" id="installButton" type="button">Instalar no telemóvel</button>
 <button class="btn secondary" id="favoriteButton" type="button">Adicionar aos favoritos</button>
 </div>
@@ -162,6 +163,19 @@
 <p class="footer-copy"><strong>© 2026–2027 Nuno Pereira.</strong> Disciplina de Património Cultural. Documentos disponíveis exclusivamente para utilização pedagógica pelas alunas autorizadas.</p>
 </div>
 </footer>
+<div aria-labelledby="recentUpdatesTitle" aria-modal="true" class="dialog-backdrop" id="recentUpdatesDialog" role="dialog">
+<div class="dialog recent-updates-dialog">
+<div class="recent-updates-heading">
+<div>
+<h2 id="recentUpdatesTitle">Últimas entradas no Acervo</h2>
+<p class="recent-updates-meta" id="recentUpdatesMeta"></p>
+</div>
+<button aria-label="Fechar últimas entradas" class="dialog-close-icon" id="recentUpdatesCloseIcon" type="button">×</button>
+</div>
+<ul class="recent-updates-list" id="recentUpdatesList"></ul>
+<button class="btn" id="recentUpdatesClose" type="button">Fechar</button>
+</div>
+</div>
 <div aria-labelledby="dialogTitle" aria-modal="true" class="dialog-backdrop" id="infoDialog" role="dialog"><div class="dialog"><h2 id="dialogTitle">Informação</h2><p id="dialogText"></p><button class="btn" id="dialogClose" type="button">Fechar</button></div></div>
 <script defer="" src="assets/catalog-data.js"></script>
 <script defer="" src="assets/site.js"></script>
