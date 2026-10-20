@@ -145,6 +145,109 @@ document.getElementById("dialogClose")?.addEventListener("click", closeDialog);
 dialog?.addEventListener("click", event => { if (event.target === dialog) closeDialog(); });
 document.addEventListener("keydown", event => { if (event.key === "Escape") closeDialog(); });
 
+/* Últimas entradas no Acervo */
+const recentUpdatesButton = document.getElementById("recentUpdatesButton");
+const recentUpdatesBadge = document.getElementById("recentUpdatesBadge");
+const recentUpdatesDialog = document.getElementById("recentUpdatesDialog");
+const recentUpdatesMeta = document.getElementById("recentUpdatesMeta");
+const recentUpdatesList = document.getElementById("recentUpdatesList");
+const recentUpdatesClose = document.getElementById("recentUpdatesClose");
+const recentUpdatesCloseIcon = document.getElementById("recentUpdatesCloseIcon");
+
+function recentEntryType(catalogKey, category) {
+  if (catalogKey === "bibliografia") return `Bibliografia · ${category.title}`;
+  if (catalogKey === "legislacao") return `Legislação · ${category.title}`;
+  if (catalogKey === "documentos-tecnicos") return `Documento técnico · ${category.title}`;
+  if (catalogKey === "cartas-patrimoniais") return `Carta patrimonial · ${category.title}`;
+  if (catalogKey === "multimedia") {
+    if (category.id === "recomendados") return "Vídeo recomendado";
+    if (category.id === "exibidos") return "Vídeo exibido nas aulas";
+    if (category.id === "audio") return "Áudio";
+    return category.title;
+  }
+  return category.title || "Acervo";
+}
+
+function getLatestAcervoUpdate() {
+  const config = DATA.recentUpdatesConfig || {};
+  const dateField = config.dateField || "addedAt";
+  const maxItems = Math.max(1, Number(config.maxItems || 15));
+  const catalogs = DATA.countConfig?.catalogs || ["legislacao", "documentos-tecnicos", "bibliografia", "cartas-patrimoniais", "multimedia"];
+  const entries = [];
+
+  catalogs.forEach(catalogKey => {
+    (DATA[catalogKey] || []).forEach(category => {
+      (category.items || []).forEach(item => {
+        const date = item?.[dateField];
+        if (!date) return;
+        entries.push({ catalogKey, category, item, date: String(date) });
+      });
+    });
+  });
+
+  if (!entries.length) return null;
+  const latestDate = entries.reduce((latest, entry) => entry.date > latest ? entry.date : latest, entries[0].date);
+  const items = entries.filter(entry => entry.date === latestDate).slice(0, maxItems);
+  return { date: latestDate, items, totalForUpdate: entries.filter(entry => entry.date === latestDate).length };
+}
+
+function formatAcervoDate(isoDate) {
+  const parsed = new Date(`${isoDate}T12:00:00`);
+  if (Number.isNaN(parsed.getTime())) return isoDate;
+  return new Intl.DateTimeFormat("pt-PT", { day: "numeric", month: "long", year: "numeric" }).format(parsed);
+}
+
+function renderRecentUpdates() {
+  if (!recentUpdatesButton || !recentUpdatesDialog || !recentUpdatesList || !recentUpdatesMeta) return;
+  const latest = getLatestAcervoUpdate();
+  if (!latest) {
+    recentUpdatesButton.hidden = true;
+    return;
+  }
+
+  recentUpdatesButton.hidden = false;
+  recentUpdatesMeta.textContent = `Última atualização: ${formatAcervoDate(latest.date)}`;
+  recentUpdatesList.innerHTML = latest.items.map(({ catalogKey, category, item }) => {
+    const type = recentEntryType(catalogKey, category);
+    const href = item.viewUrl || item.externalUrl || item.downloadUrl || "";
+    const title = safeText(item.title || "Sem título");
+    const titleMarkup = href
+      ? `<a href="${safeText(href)}" target="_blank" rel="noopener">${title}</a>`
+      : `<span>${title}</span>`;
+    return `<li class="recent-update-item"><span class="recent-update-type">${safeText(type)}</span><strong class="recent-update-title">${titleMarkup}</strong></li>`;
+  }).join("");
+
+  if (latest.totalForUpdate > latest.items.length) {
+    recentUpdatesList.insertAdjacentHTML("beforeend", `<li class="recent-update-more">+${latest.totalForUpdate - latest.items.length} entrada(s) nesta atualização.</li>`);
+  }
+
+  if (recentUpdatesBadge) {
+    const updateDate = new Date(`${latest.date}T12:00:00`);
+    const ageDays = (Date.now() - updateDate.getTime()) / 86400000;
+    recentUpdatesBadge.classList.toggle("show", ageDays >= 0 && ageDays <= 14);
+  }
+}
+
+function openRecentUpdates() {
+  if (!recentUpdatesDialog) return;
+  renderRecentUpdates();
+  recentUpdatesDialog.classList.add("open");
+  recentUpdatesCloseIcon?.focus();
+}
+
+function closeRecentUpdates() {
+  if (!recentUpdatesDialog?.classList.contains("open")) return;
+  recentUpdatesDialog.classList.remove("open");
+  recentUpdatesButton?.focus();
+}
+
+recentUpdatesButton?.addEventListener("click", openRecentUpdates);
+recentUpdatesClose?.addEventListener("click", closeRecentUpdates);
+recentUpdatesCloseIcon?.addEventListener("click", closeRecentUpdates);
+recentUpdatesDialog?.addEventListener("click", event => { if (event.target === recentUpdatesDialog) closeRecentUpdates(); });
+document.addEventListener("keydown", event => { if (event.key === "Escape") closeRecentUpdates(); });
+renderRecentUpdates();
+
 /* Aulas */
 const sessionsGrid = document.getElementById("sessionsGrid");
 const previousSessions = document.getElementById("previousSessions");
