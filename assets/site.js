@@ -171,6 +171,7 @@ function recentEntryType(catalogKey, category) {
 function getLatestAcervoUpdate() {
   const config = DATA.recentUpdatesConfig || {};
   const dateField = config.dateField || "addedAt";
+  const batchField = config.batchField || "updateBatch";
   const maxItems = Math.max(1, Number(config.maxItems || 15));
   const catalogs = DATA.countConfig?.catalogs || ["legislacao", "documentos-tecnicos", "bibliografia", "cartas-patrimoniais", "multimedia"];
   const entries = [];
@@ -180,15 +181,18 @@ function getLatestAcervoUpdate() {
       (category.items || []).forEach(item => {
         const date = item?.[dateField];
         if (!date) return;
-        entries.push({ catalogKey, category, item, date: String(date) });
+        const batch = item?.[batchField] ? String(item[batchField]) : String(date);
+        entries.push({ catalogKey, category, item, date: String(date), batch });
       });
     });
   });
 
   if (!entries.length) return null;
-  const latestDate = entries.reduce((latest, entry) => entry.date > latest ? entry.date : latest, entries[0].date);
-  const items = entries.filter(entry => entry.date === latestDate).slice(0, maxItems);
-  return { date: latestDate, items, totalForUpdate: entries.filter(entry => entry.date === latestDate).length };
+  const latestBatch = entries.reduce((latest, entry) => entry.batch > latest ? entry.batch : latest, entries[0].batch);
+  const updateEntries = entries.filter(entry => entry.batch === latestBatch);
+  const latestDate = updateEntries.reduce((latest, entry) => entry.date > latest ? entry.date : latest, updateEntries[0].date);
+  const items = updateEntries.slice(0, maxItems);
+  return { date: latestDate, batch: latestBatch, items, totalForUpdate: updateEntries.length };
 }
 
 function formatAcervoDate(isoDate) {
