@@ -1078,7 +1078,8 @@ window.PATRIMONIO_CATALOG = {
           "description": "Mariana Diniz, Andrea Martins, César Neves, José Morais Arnaud",
           "viewUrl": "https://drive.google.com/file/d/1wOLcEyZDsAQNH-zZ-mfYZ6ZFl_OUC8GZ/view?usp=drive_link",
           "downloadUrl": "https://drive.google.com/uc?export=download&id=1wOLcEyZDsAQNH-zZ-mfYZ6ZFl_OUC8GZ",
-          "recordId": "vila-nova-de-sao-pedro-e-o-calcolitico-no-ocidente-peninsular"
+          "recordId": "vila-nova-de-sao-pedro-e-o-calcolitico-no-ocidente-peninsular",
+          "addedAt": "2026-10-19"
         }
       ]
     },
@@ -1133,7 +1134,8 @@ window.PATRIMONIO_CATALOG = {
           "description": "Rodrigo da Costa Gonçalves",
           "viewUrl": "https://drive.google.com/file/d/1r3VmHiMVNMusEU3d1KCxfJcXX9yqaCup/view?usp=drive_link",
           "downloadUrl": "https://drive.google.com/uc?export=download&id=1r3VmHiMVNMusEU3d1KCxfJcXX9yqaCup",
-          "recordId": "estalagem-da-serreta-a-reabilitacao-de-uma-obra-e-do-seu-autor"
+          "recordId": "estalagem-da-serreta-a-reabilitacao-de-uma-obra-e-do-seu-autor",
+          "addedAt": "2026-10-19"
         }
       ]
     },
@@ -1243,28 +1245,32 @@ window.PATRIMONIO_CATALOG = {
           "description": "Graça Filipe",
           "viewUrl": "https://drive.google.com/file/d/1OnifAkbJCht0_-at3CLjT3lpJZB3qulR/view?usp=drive_link",
           "downloadUrl": "https://drive.google.com/uc?export=download&id=1OnifAkbJCht0_-at3CLjT3lpJZB3qulR",
-          "recordId": "fabrica-da-polvora-de-vale-de-milhacos-importancia-da-proteccao-legal-do-patrimonio-industrial-e-potencialidades-da-musealizacao-do-circuito-da-polvora-negra"
+          "recordId": "fabrica-da-polvora-de-vale-de-milhacos-importancia-da-proteccao-legal-do-patrimonio-industrial-e-potencialidades-da-musealizacao-do-circuito-da-polvora-negra",
+          "addedAt": "2026-10-19"
         },
         {
           "title": "Along the Railway. Italian Industrial Design in Portugal",
           "description": "Paulo Pereira",
           "viewUrl": "https://drive.google.com/file/d/1liXCaPcpMDs9m76nIrewY7ND4xDQAmQr/view?usp=drive_link",
           "downloadUrl": "https://drive.google.com/uc?export=download&id=1liXCaPcpMDs9m76nIrewY7ND4xDQAmQr",
-          "recordId": "along-the-railway-italian-industrial-design-in-portugal"
+          "recordId": "along-the-railway-italian-industrial-design-in-portugal",
+          "addedAt": "2026-10-19"
         },
         {
           "title": "A fábrica de moagem do Caramujo património industrial da Cova da Piedade. Percursos de salvaguarda e reutilização. Volume I",
           "description": "Maria da Conceição da Costa Almeida Toscano",
           "viewUrl": "https://drive.google.com/file/d/1r2-VIDgJzVvqkNRbAKwu4HuNc9VAuvwn/view?usp=drive_link",
           "downloadUrl": "https://drive.google.com/uc?export=download&id=1r2-VIDgJzVvqkNRbAKwu4HuNc9VAuvwn",
-          "recordId": "a-fabrica-de-moagem-do-caramujo-patrimonio-industrial-da-cova-da-piedade-percursos-de-salvaguarda-e-reutilizacao-volume-i"
+          "recordId": "a-fabrica-de-moagem-do-caramujo-patrimonio-industrial-da-cova-da-piedade-percursos-de-salvaguarda-e-reutilizacao-volume-i",
+          "addedAt": "2026-10-19"
         },
         {
           "title": "A fábrica de moagem do Caramujo património industrial da Cova da Piedade. Percursos de salvaguarda e reutilização. Volume II",
           "description": "Maria da Conceição da Costa Almeida Toscano",
           "viewUrl": "https://drive.google.com/file/d/1FJS9G5sNN10VHlz30NM7FQBMKD9Q8Wej/view?usp=drive_link",
           "downloadUrl": "https://drive.google.com/uc?export=download&id=1FJS9G5sNN10VHlz30NM7FQBMKD9Q8Wej",
-          "recordId": "a-fabrica-de-moagem-do-caramujo-patrimonio-industrial-da-cova-da-piedade-percursos-de-salvaguarda-e-reutilizacao-volume-ii"
+          "recordId": "a-fabrica-de-moagem-do-caramujo-patrimonio-industrial-da-cova-da-piedade-percursos-de-salvaguarda-e-reutilizacao-volume-ii",
+          "addedAt": "2026-10-19"
         }
       ]
     },
@@ -1639,7 +1645,8 @@ window.PATRIMONIO_CATALOG = {
           "viewLabel": "Ver vídeo",
           "downloadLabel": "Transferir vídeo",
           "recordId": "monte-palace-abandonados-sic",
-          "iconLabel": "VÍDEO"
+          "iconLabel": "VÍDEO",
+          "addedAt": "2026-10-19"
         },
         {
           "title": "Impacto da passagem da tempestade Kristin nos edifícios da Igreja - Santuário de Nossa Sra da Encarnação",
@@ -1649,7 +1656,8 @@ window.PATRIMONIO_CATALOG = {
           "viewLabel": "Ver vídeo",
           "downloadLabel": "Transferir vídeo",
           "recordId": "impacto-da-passagem-da-tempestade-kristin-nos-edificios-da-igreja-santuario-de-nossa-sra-da-encarnacao",
-          "iconLabel": "VÍDEO"
+          "iconLabel": "VÍDEO",
+          "addedAt": "2026-10-19"
         },
         {
           "title": "Foguete, um dos comboios mais importantes na história da CP e de Portugal",
@@ -1659,7 +1667,8 @@ window.PATRIMONIO_CATALOG = {
           "viewLabel": "Ver vídeo",
           "downloadLabel": "Transferir vídeo",
           "recordId": "foguete-um-dos-comboios-mais-importantes-na-historia-da-cp-e-de-portugal",
-          "iconLabel": "VÍDEO"
+          "iconLabel": "VÍDEO",
+          "addedAt": "2026-10-19"
         },
         {
           "title": "Calcolítico Vila Nova de São Pedro - uma muralha; cinco milénios de perguntas",
@@ -1669,7 +1678,8 @@ window.PATRIMONIO_CATALOG = {
           "viewLabel": "Ver vídeo",
           "downloadLabel": "Transferir vídeo",
           "recordId": "calcolitico-vila-nova-de-sao-pedro-uma-muralha-cinco-milenios-de-perguntas",
-          "iconLabel": "VÍDEO"
+          "iconLabel": "VÍDEO",
+          "addedAt": "2026-10-19"
         },
         {
           "title": "Calcolítico Vila Nova de São Pedro - Before Castles Discovering Portugal’s Colossal Chalcolithic Stronghold",
@@ -1679,7 +1689,8 @@ window.PATRIMONIO_CATALOG = {
           "viewLabel": "Ver vídeo",
           "downloadLabel": "Transferir vídeo",
           "recordId": "calcolitico-vila-nova-de-sao-pedro-before-castles-discovering-portugals-colossal-chalcolithic-stronghold",
-          "iconLabel": "VÍDEO"
+          "iconLabel": "VÍDEO",
+          "addedAt": "2026-10-19"
         }
       ]
     },
@@ -2376,5 +2387,9 @@ window.PATRIMONIO_CATALOG = {
       "ligacoes"
     ],
     "animationDurationMs": 2000
+  },
+  "recentUpdatesConfig": {
+    "maxItems": 15,
+    "dateField": "addedAt"
   }
 };
