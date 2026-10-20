@@ -154,7 +154,7 @@ const recentUpdatesList = document.getElementById("recentUpdatesList");
 const recentUpdatesClose = document.getElementById("recentUpdatesClose");
 const recentUpdatesCloseIcon = document.getElementById("recentUpdatesCloseIcon");
 
-function recentEntryType(catalogKey, category) {
+function recentEntryType(catalogKey, category, item) {
   if (catalogKey === "bibliografia") return `Bibliografia · ${category.title}`;
   if (catalogKey === "legislacao") return `Legislação · ${category.title}`;
   if (catalogKey === "documentos-tecnicos") return `Documento técnico · ${category.title}`;
@@ -165,6 +165,7 @@ function recentEntryType(catalogKey, category) {
     if (category.id === "audio") return "Áudio";
     return category.title;
   }
+  if (catalogKey === "aulas") return "Apresentação da aula · Sessão " + String(item && item.number || "").padStart(2, "0");
   return category.title || "Acervo";
 }
 
@@ -212,7 +213,7 @@ function renderRecentUpdates() {
   recentUpdatesButton.hidden = false;
   recentUpdatesMeta.textContent = `Última atualização: ${formatAcervoDate(latest.date)}`;
   recentUpdatesList.innerHTML = latest.items.map(({ catalogKey, category, item }) => {
-    const type = recentEntryType(catalogKey, category);
+    const type = recentEntryType(catalogKey, category, item);
     const href = item.viewUrl || item.externalUrl || item.downloadUrl || "";
     const title = safeText(item.title || "Sem título");
     const titleMarkup = href
