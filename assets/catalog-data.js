@@ -1138,6 +1138,22 @@ window.PATRIMONIO_CATALOG = {
           "recordId": "estalagem-da-serreta-a-reabilitacao-de-uma-obra-e-do-seu-autor",
           "addedAt": "2026-10-19",
           "updateBatch": "2026-10-19-01"
+        },
+        {
+          "title": "Edifício Chiado - Rua Larga",
+          "viewUrl": "https://drive.google.com/file/d/1zo25fv-q_SKgF3QdyqYUv-MnNsQhoKFS/view?usp=drivesdk",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1zo25fv-q_SKgF3QdyqYUv-MnNsQhoKFS",
+          "recordId": "edificio-chiado-rua-larga",
+          "addedAt": "2026-11-09",
+          "updateBatch": "2026-11-09-02"
+        },
+        {
+          "title": "Guião de Visita - Forte de Peniche",
+          "viewUrl": "https://drive.google.com/file/d/1Hj4inVbudZsfQRlbJ79AiHTPgTe8AosL/view?usp=drivesdk",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1Hj4inVbudZsfQRlbJ79AiHTPgTe8AosL",
+          "recordId": "guiao-de-visita-forte-de-peniche",
+          "addedAt": "2026-11-09",
+          "updateBatch": "2026-11-09-02"
         }
       ]
     },
@@ -1277,6 +1293,22 @@ window.PATRIMONIO_CATALOG = {
           "recordId": "a-fabrica-de-moagem-do-caramujo-patrimonio-industrial-da-cova-da-piedade-percursos-de-salvaguarda-e-reutilizacao-volume-ii",
           "addedAt": "2026-10-19",
           "updateBatch": "2026-10-19-01"
+        },
+        {
+          "title": "EuropaNostra - Carrilhões do Palácio Nacional de Mafra",
+          "viewUrl": "https://drive.google.com/file/d/1XM2MawWLqN7_lYSowg9oyGehipqoWXzs/view?usp=drivesdk",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1XM2MawWLqN7_lYSowg9oyGehipqoWXzs",
+          "recordId": "europanostra-carrilhoes-do-palacio-nacional-de-mafra",
+          "addedAt": "2026-11-09",
+          "updateBatch": "2026-11-09-02"
+        },
+        {
+          "title": "Relatório da intervenção de Conservação e Restauro do Comboio Presidencial 2010-2013",
+          "viewUrl": "https://drive.google.com/file/d/1FddyllJ9y3nFevwdWPJ3MgQaD8a2Lut0/view?usp=drivesdk",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1FddyllJ9y3nFevwdWPJ3MgQaD8a2Lut0",
+          "recordId": "relatorio-da-intervencao-de-conservacao-e-restauro-do-comboio-presidencial-2010-2013",
+          "addedAt": "2026-11-09",
+          "updateBatch": "2026-11-09-02"
         }
       ]
     },
@@ -1311,6 +1343,22 @@ window.PATRIMONIO_CATALOG = {
           "viewUrl": "https://drive.google.com/file/d/11So5WfuKzz1tYZJNWMHgBSQtTVMYwHd0/view?usp=drive_link",
           "downloadUrl": "https://drive.google.com/uc?export=download&id=11So5WfuKzz1tYZJNWMHgBSQtTVMYwHd0",
           "recordId": "religiao-arte-e-patrimonio-cultural"
+        },
+        {
+          "title": "Brochura Mosteiro de Santa Maria de Seiça",
+          "viewUrl": "https://drive.google.com/file/d/1zVTNpIAySd6kekXsfWhNbdcPhW5mo7Pw/view?usp=drivesdk",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1zVTNpIAySd6kekXsfWhNbdcPhW5mo7Pw",
+          "recordId": "brochura-mosteiro-de-santa-maria-de-seica",
+          "addedAt": "2026-11-09",
+          "updateBatch": "2026-11-09-02"
+        },
+        {
+          "title": "Retábulos do Antigo Convento de Jesus em Setúbal",
+          "viewUrl": "https://drive.google.com/file/d/12sVrLnnH-bklYbrh8bAFw-qPNTc61T3H/view?usp=drivesdk",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=12sVrLnnH-bklYbrh8bAFw-qPNTc61T3H",
+          "recordId": "retabulos-do-antigo-convento-de-jesus-em-setubal",
+          "addedAt": "2026-11-09",
+          "updateBatch": "2026-11-09-02"
         }
       ]
     },
@@ -1393,6 +1441,22 @@ window.PATRIMONIO_CATALOG = {
           "viewUrl": "https://drive.google.com/file/d/1H3uDa0hOPQ__YcLVs0vgEyGRNdwgoSqW/view?usp=drive_link",
           "downloadUrl": "https://drive.google.com/uc?export=download&id=1H3uDa0hOPQ__YcLVs0vgEyGRNdwgoSqW",
           "recordId": "rene-lalique-o-artista-o-mistico-e-o-empreendedor"
+        },
+        {
+          "title": "Museu de Setúbal no Convento de Jesus",
+          "viewUrl": "https://drive.google.com/file/d/1rWb3XbwFbOngnm_GwXgUVfub3gMeHL48/view?usp=drivesdk",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1rWb3XbwFbOngnm_GwXgUVfub3gMeHL48",
+          "recordId": "museu-de-setubal-no-convento-de-jesus",
+          "addedAt": "2026-11-09",
+          "updateBatch": "2026-11-09-02"
+        },
+        {
+          "title": "Programa Museológico Forte de Peniche",
+          "viewUrl": "https://drive.google.com/file/d/1Nmx8xYZlu2aLIpNuyL610yhp8vrgrESX/view?usp=drivesdk",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1Nmx8xYZlu2aLIpNuyL610yhp8vrgrESX",
+          "recordId": "programa-museologico-forte-de-peniche",
+          "addedAt": "2026-11-09",
+          "updateBatch": "2026-11-09-02"
         }
       ]
     },
@@ -1750,6 +1814,282 @@ window.PATRIMONIO_CATALOG = {
           "iconLabel": "VÍDEO",
           "addedAt": "2026-11-09",
           "updateBatch": "2026-11-09-01"
+        },
+        {
+          "title": "Arqueologia da Resistência na Fortaleza de Peniche",
+          "description": "Vídeo recomendado.",
+          "viewUrl": "https://drive.google.com/file/d/1bd0f-qnOUDaTKqp9VRthUkTg1Mv4STOh/view?usp=drivesdk",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1bd0f-qnOUDaTKqp9VRthUkTg1Mv4STOh",
+          "viewLabel": "Ver vídeo",
+          "downloadLabel": "Transferir vídeo",
+          "recordId": "arqueologia-da-resistencia-na-fortaleza-de-peniche",
+          "iconLabel": "VÍDEO",
+          "addedAt": "2026-11-09",
+          "updateBatch": "2026-11-09-02"
+        },
+        {
+          "title": "Carrilhões do Palácio Nacional de Mafra - Visita Guiada",
+          "description": "Vídeo recomendado.",
+          "viewUrl": "https://drive.google.com/file/d/1CUV9Jp2VgRAKigN3jAOMM59-xPlTPfgz/view?usp=drivesdk",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1CUV9Jp2VgRAKigN3jAOMM59-xPlTPfgz",
+          "viewLabel": "Ver vídeo",
+          "downloadLabel": "Transferir vídeo",
+          "recordId": "carrilhoes-do-palacio-nacional-de-mafra-visita-guiada",
+          "iconLabel": "VÍDEO",
+          "addedAt": "2026-11-09",
+          "updateBatch": "2026-11-09-02"
+        },
+        {
+          "title": "Centro de Conservação e restauro de arte sacra",
+          "description": "Vídeo recomendado.",
+          "viewUrl": "https://drive.google.com/file/d/1CYvvpqnhqE3jIXobrri3B0nh9ztldehn/view?usp=drivesdk",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1CYvvpqnhqE3jIXobrri3B0nh9ztldehn",
+          "viewLabel": "Ver vídeo",
+          "downloadLabel": "Transferir vídeo",
+          "recordId": "centro-de-conservacao-e-restauro-de-arte-sacra",
+          "iconLabel": "VÍDEO",
+          "addedAt": "2026-11-09",
+          "updateBatch": "2026-11-09-02"
+        },
+        {
+          "title": "Clínica de Conservação e Restauro",
+          "description": "Vídeo recomendado.",
+          "viewUrl": "https://drive.google.com/file/d/1XBQJf8ce7JMj7F5yLC7dTX_0dn52IyEf/view?usp=drivesdk",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1XBQJf8ce7JMj7F5yLC7dTX_0dn52IyEf",
+          "viewLabel": "Ver vídeo",
+          "downloadLabel": "Transferir vídeo",
+          "recordId": "clinica-de-conservacao-e-restauro",
+          "iconLabel": "VÍDEO",
+          "addedAt": "2026-11-09",
+          "updateBatch": "2026-11-09-02"
+        },
+        {
+          "title": "Conservação e Restauro do Mosteiro de Santa Clara-a-Velha",
+          "description": "Vídeo recomendado.",
+          "viewUrl": "https://drive.google.com/file/d/1SIPYZsSgiGUCHH3IsomxF2ikPFE7Tac3/view?usp=drivesdk",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1SIPYZsSgiGUCHH3IsomxF2ikPFE7Tac3",
+          "viewLabel": "Ver vídeo",
+          "downloadLabel": "Transferir vídeo",
+          "recordId": "conservacao-e-restauro-do-mosteiro-de-santa-clara-a-velha",
+          "iconLabel": "VÍDEO",
+          "addedAt": "2026-11-09",
+          "updateBatch": "2026-11-09-02"
+        },
+        {
+          "title": "Convento de Jesus - Cronologia Abreviada",
+          "description": "Vídeo recomendado.",
+          "viewUrl": "https://drive.google.com/file/d/1XU99idak5HsemKxJz4WeWpLhSDuECbQR/view?usp=drivesdk",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1XU99idak5HsemKxJz4WeWpLhSDuECbQR",
+          "viewLabel": "Ver vídeo",
+          "downloadLabel": "Transferir vídeo",
+          "recordId": "convento-de-jesus-cronologia-abreviada",
+          "iconLabel": "VÍDEO",
+          "addedAt": "2026-11-09",
+          "updateBatch": "2026-11-09-02"
+        },
+        {
+          "title": "Especialidades de conservação e restauro",
+          "description": "Vídeo recomendado.",
+          "viewUrl": "https://drive.google.com/file/d/1qkZJs-rkJmMXyBXvDPstUxYiUcUnbwl2/view?usp=drivesdk",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1qkZJs-rkJmMXyBXvDPstUxYiUcUnbwl2",
+          "viewLabel": "Ver vídeo",
+          "downloadLabel": "Transferir vídeo",
+          "recordId": "especialidades-de-conservacao-e-restauro",
+          "iconLabel": "VÍDEO",
+          "addedAt": "2026-11-09",
+          "updateBatch": "2026-11-09-02"
+        },
+        {
+          "title": "Fragata D. Fernando II e Glória - Visita Guiada",
+          "description": "Vídeo recomendado.",
+          "viewUrl": "https://drive.google.com/file/d/1I4SnPLX3Fd6zwP3ZIYstPujCqPW8F6Mj/view?usp=drivesdk",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1I4SnPLX3Fd6zwP3ZIYstPujCqPW8F6Mj",
+          "viewLabel": "Ver vídeo",
+          "downloadLabel": "Transferir vídeo",
+          "recordId": "fragata-d-fernando-ii-e-gloria-visita-guiada",
+          "iconLabel": "VÍDEO",
+          "addedAt": "2026-11-09",
+          "updateBatch": "2026-11-09-02"
+        },
+        {
+          "title": "História do Convento de Jesus",
+          "description": "Vídeo recomendado.",
+          "viewUrl": "https://drive.google.com/file/d/1_S3oDR0tsFGxOFpxVvYuE8arXhAUrSEe/view?usp=drivesdk",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1_S3oDR0tsFGxOFpxVvYuE8arXhAUrSEe",
+          "viewLabel": "Ver vídeo",
+          "downloadLabel": "Transferir vídeo",
+          "recordId": "historia-do-convento-de-jesus",
+          "iconLabel": "VÍDEO",
+          "addedAt": "2026-11-09",
+          "updateBatch": "2026-11-09-02"
+        },
+        {
+          "title": "Mosteiro de Seiça - Abandonados da SIC",
+          "description": "Vídeo recomendado.",
+          "viewUrl": "https://drive.google.com/file/d/1Yyar2Lm4JJQ4xOn-J-nDYkBs-itbih-s/view?usp=drivesdk",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1Yyar2Lm4JJQ4xOn-J-nDYkBs-itbih-s",
+          "viewLabel": "Ver vídeo",
+          "downloadLabel": "Transferir vídeo",
+          "recordId": "mosteiro-de-seica-abandonados-da-sic",
+          "iconLabel": "VÍDEO",
+          "addedAt": "2026-11-09",
+          "updateBatch": "2026-11-09-02"
+        },
+        {
+          "title": "Navio Gil Eannes-1997 - Horizontes da Memória",
+          "description": "Vídeo recomendado.",
+          "viewUrl": "https://drive.google.com/file/d/13urHXBgnYHt4bFQbd2TBZF6dDnNY6G9i/view?usp=drivesdk",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=13urHXBgnYHt4bFQbd2TBZF6dDnNY6G9i",
+          "viewLabel": "Ver vídeo",
+          "downloadLabel": "Transferir vídeo",
+          "recordId": "navio-gil-eannes-1997-horizontes-da-memoria",
+          "iconLabel": "VÍDEO",
+          "addedAt": "2026-11-09",
+          "updateBatch": "2026-11-09-02"
+        },
+        {
+          "title": "O Laboratório de Conservação e Restauro do Museu Nacional de Arqueologia",
+          "description": "Vídeo recomendado.",
+          "viewUrl": "https://drive.google.com/file/d/1dBYm6KEEov4xNElH-gNYNRBxIqPEk4K9/view?usp=drivesdk",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1dBYm6KEEov4xNElH-gNYNRBxIqPEk4K9",
+          "viewLabel": "Ver vídeo",
+          "downloadLabel": "Transferir vídeo",
+          "recordId": "o-laboratorio-de-conservacao-e-restauro-do-museu-nacional-de-arqueologia",
+          "iconLabel": "VÍDEO",
+          "addedAt": "2026-11-09",
+          "updateBatch": "2026-11-09-02"
+        },
+        {
+          "title": "Palácio Nacional de Sintra - O coração da vila Património Mundial UNESCO",
+          "description": "Vídeo recomendado.",
+          "viewUrl": "https://drive.google.com/file/d/1dbdERD2BptP73uJaw15iDdwo1rRcoB4j/view?usp=drivesdk",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1dbdERD2BptP73uJaw15iDdwo1rRcoB4j",
+          "viewLabel": "Ver vídeo",
+          "downloadLabel": "Transferir vídeo",
+          "recordId": "palacio-nacional-de-sintra-o-coracao-da-vila-patrimonio-mundial-unesco",
+          "iconLabel": "VÍDEO",
+          "addedAt": "2026-11-09",
+          "updateBatch": "2026-11-09-02"
+        },
+        {
+          "title": "Palácio Nacional de Sintra",
+          "description": "Vídeo recomendado.",
+          "viewUrl": "https://drive.google.com/file/d/19Hp1LFVdZ-GnOSX6geh1C8uAXKlQz6hb/view?usp=drivesdk",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=19Hp1LFVdZ-GnOSX6geh1C8uAXKlQz6hb",
+          "viewLabel": "Ver vídeo",
+          "downloadLabel": "Transferir vídeo",
+          "recordId": "palacio-nacional-de-sintra",
+          "iconLabel": "VÍDEO",
+          "addedAt": "2026-11-09",
+          "updateBatch": "2026-11-09-02"
+        },
+        {
+          "title": "Processo de conservação e restauro no Museu de Arqueologia",
+          "description": "Vídeo recomendado.",
+          "viewUrl": "https://drive.google.com/file/d/1nMONbllo7GcxYEocrQ9qNC91fbjbgV3n/view?usp=drivesdk",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1nMONbllo7GcxYEocrQ9qNC91fbjbgV3n",
+          "viewLabel": "Ver vídeo",
+          "downloadLabel": "Transferir vídeo",
+          "recordId": "processo-de-conservacao-e-restauro-no-museu-de-arqueologia",
+          "iconLabel": "VÍDEO",
+          "addedAt": "2026-11-09",
+          "updateBatch": "2026-11-09-02"
+        },
+        {
+          "title": "Visita Guiada - Instituto de Conservação e Restauro José Figueiredo",
+          "description": "Vídeo recomendado.",
+          "viewUrl": "https://drive.google.com/file/d/1jwq2Rih24uXtSYje32ECVhvNaZ92guzQ/view?usp=drivesdk",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1jwq2Rih24uXtSYje32ECVhvNaZ92guzQ",
+          "viewLabel": "Ver vídeo",
+          "downloadLabel": "Transferir vídeo",
+          "recordId": "visita-guiada-instituto-de-conservacao-e-restauro-jose-figueiredo",
+          "iconLabel": "VÍDEO",
+          "addedAt": "2026-11-09",
+          "updateBatch": "2026-11-09-02"
+        },
+        {
+          "title": "A capela do Palácio Nacional de Sintra",
+          "description": "Vídeo recomendado.",
+          "viewUrl": "https://drive.google.com/file/d/1SRQgubiTdAvmmO2RsDalRQE7yPsGuxsq/view?usp=drivesdk",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1SRQgubiTdAvmmO2RsDalRQE7yPsGuxsq",
+          "viewLabel": "Ver vídeo",
+          "downloadLabel": "Transferir vídeo",
+          "recordId": "a-capela-do-palacio-nacional-de-sintra",
+          "iconLabel": "VÍDEO",
+          "addedAt": "2026-11-09",
+          "updateBatch": "2026-11-09-02"
+        },
+        {
+          "title": "Mercado do Bolhão - Espaços&Casas",
+          "description": "Vídeo recomendado.",
+          "viewUrl": "https://drive.google.com/file/d/1seoIs-pyYcLH0kUgAYvKaLL6zEFX3Euz/view?usp=drivesdk",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1seoIs-pyYcLH0kUgAYvKaLL6zEFX3Euz",
+          "viewLabel": "Ver vídeo",
+          "downloadLabel": "Transferir vídeo",
+          "recordId": "mercado-do-bolhao-espacos-casas",
+          "iconLabel": "VÍDEO",
+          "addedAt": "2026-11-09",
+          "updateBatch": "2026-11-09-02"
+        },
+        {
+          "title": "Mosteiro de Santa Clara-a-Velha",
+          "description": "Vídeo recomendado.",
+          "viewUrl": "https://drive.google.com/file/d/13e2rSfub1pdOEeHj17hiDNpHuyEwzINp/view?usp=drivesdk",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=13e2rSfub1pdOEeHj17hiDNpHuyEwzINp",
+          "viewLabel": "Ver vídeo",
+          "downloadLabel": "Transferir vídeo",
+          "recordId": "mosteiro-de-santa-clara-a-velha",
+          "iconLabel": "VÍDEO",
+          "addedAt": "2026-11-09",
+          "updateBatch": "2026-11-09-02"
+        },
+        {
+          "title": "Mosteiro de Sta Maria de Seiça",
+          "description": "Vídeo recomendado.",
+          "viewUrl": "https://drive.google.com/file/d/1CzO_2LIUk5AY1Pxo0NYubZyKYEPQAxcT/view?usp=drivesdk",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1CzO_2LIUk5AY1Pxo0NYubZyKYEPQAxcT",
+          "viewLabel": "Ver vídeo",
+          "downloadLabel": "Transferir vídeo",
+          "recordId": "mosteiro-de-sta-maria-de-seica",
+          "iconLabel": "VÍDEO",
+          "addedAt": "2026-11-09",
+          "updateBatch": "2026-11-09-02"
+        },
+        {
+          "title": "Reabilitação dos Carrilhões de Mafra",
+          "description": "Vídeo recomendado.",
+          "viewUrl": "https://drive.google.com/file/d/1STZlKi2-vUoET8zZ7u0H0BXlb0M3Ro3o/view?usp=drivesdk",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1STZlKi2-vUoET8zZ7u0H0BXlb0M3Ro3o",
+          "viewLabel": "Ver vídeo",
+          "downloadLabel": "Transferir vídeo",
+          "recordId": "reabilitacao-dos-carrilhoes-de-mafra",
+          "iconLabel": "VÍDEO",
+          "addedAt": "2026-11-09",
+          "updateBatch": "2026-11-09-02"
+        },
+        {
+          "title": "Recuperação Convento de Jesus",
+          "description": "Vídeo recomendado.",
+          "viewUrl": "https://drive.google.com/file/d/1tHJiwX94b7mGYYtF7C5VsQclywmshuDa/view?usp=drivesdk",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1tHJiwX94b7mGYYtF7C5VsQclywmshuDa",
+          "viewLabel": "Ver vídeo",
+          "downloadLabel": "Transferir vídeo",
+          "recordId": "recuperacao-convento-de-jesus",
+          "iconLabel": "VÍDEO",
+          "addedAt": "2026-11-09",
+          "updateBatch": "2026-11-09-02"
+        },
+        {
+          "title": "Restauro do Comboio Presidencial",
+          "description": "Vídeo recomendado.",
+          "viewUrl": "https://drive.google.com/file/d/1di5IEG2Dpa3CvkacRG75FmNyrlE41Ngy/view?usp=drivesdk",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1di5IEG2Dpa3CvkacRG75FmNyrlE41Ngy",
+          "viewLabel": "Ver vídeo",
+          "downloadLabel": "Transferir vídeo",
+          "recordId": "restauro-do-comboio-presidencial",
+          "iconLabel": "VÍDEO",
+          "addedAt": "2026-11-09",
+          "updateBatch": "2026-11-09-02"
         }
       ]
     },
