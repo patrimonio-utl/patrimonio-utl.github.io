@@ -1596,6 +1596,30 @@ window.PATRIMONIO_CATALOG = {
           "downloadLabel": "Transferir vídeo",
           "recordId": "castelo-da-lousa-mergulho",
           "iconLabel": "VÍDEO"
+        },
+        {
+          "title": "Europa Nostra - Os 7 mais Ameaçados 2026",
+          "description": "Vídeo exibido nas aulas.",
+          "viewUrl": "https://drive.google.com/file/d/1sO7w7e6oMOw0THmzSrtmKqvdtLuLPd0M/view?usp=drive_link",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1sO7w7e6oMOw0THmzSrtmKqvdtLuLPd0M",
+          "viewLabel": "Ver vídeo",
+          "downloadLabel": "Transferir vídeo",
+          "recordId": "europa-nostra-os-7-mais-ameacados-2026",
+          "iconLabel": "VÍDEO",
+          "addedAt": "2026-11-09",
+          "updateBatch": "2026-11-09-01"
+        },
+        {
+          "title": "Palácio do Lixo",
+          "description": "Vídeo exibido nas aulas.",
+          "viewUrl": "https://drive.google.com/file/d/16ftulnSOxDAMi1L3Unq_gbejlRkdP62H/view?usp=drive_link",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=16ftulnSOxDAMi1L3Unq_gbejlRkdP62H",
+          "viewLabel": "Ver vídeo",
+          "downloadLabel": "Transferir vídeo",
+          "recordId": "palacio-do-lixo",
+          "iconLabel": "VÍDEO",
+          "addedAt": "2026-11-09",
+          "updateBatch": "2026-11-09-01"
         }
       ]
     },
@@ -1702,6 +1726,30 @@ window.PATRIMONIO_CATALOG = {
           "iconLabel": "VÍDEO",
           "addedAt": "2026-10-19",
           "updateBatch": "2026-10-19-01"
+        },
+        {
+          "title": "Palácio D. Chica",
+          "description": "Vídeo recomendado.",
+          "viewUrl": "https://drive.google.com/file/d/1v5HYQjf8NuCVc2FZvGZjJDG1qmC8yrGJ/view?usp=drive_link",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1v5HYQjf8NuCVc2FZvGZjJDG1qmC8yrGJ",
+          "viewLabel": "Ver vídeo",
+          "downloadLabel": "Transferir vídeo",
+          "recordId": "palacio-d-chica",
+          "iconLabel": "VÍDEO",
+          "addedAt": "2026-11-09",
+          "updateBatch": "2026-11-09-01"
+        },
+        {
+          "title": "Vista aérea do Palácio do Rei do Lixo",
+          "description": "Vídeo recomendado.",
+          "viewUrl": "https://drive.google.com/file/d/1VFRK374PCq88n67PAzQaO7IxO0ywnY9p/view?usp=drive_link",
+          "downloadUrl": "https://drive.google.com/uc?export=download&id=1VFRK374PCq88n67PAzQaO7IxO0ywnY9p",
+          "viewLabel": "Ver vídeo",
+          "downloadLabel": "Transferir vídeo",
+          "recordId": "vista-aerea-do-palacio-do-rei-do-lixo",
+          "iconLabel": "VÍDEO",
+          "addedAt": "2026-11-09",
+          "updateBatch": "2026-11-09-01"
         }
       ]
     },
@@ -2139,7 +2187,7 @@ window.PATRIMONIO_CATALOG = {
     {
       "number": 3,
       "date": "20/10/2026",
-      "title": "Património em risco: o que Portugal ainda pode perder",
+      "title": "Património em risco: o que Portugal ainda pode perder (Parte I)",
       "viewUrl": "https://drive.google.com/file/d/1bteJ8Xe5Kd1UtLVNwQrmRJfMhK9vND7U/view?usp=drivesdk",
       "downloadUrl": "https://drive.google.com/uc?export=download&id=1bteJ8Xe5Kd1UtLVNwQrmRJfMhK9vND7U",
       "status": "disponivel",
@@ -2149,39 +2197,41 @@ window.PATRIMONIO_CATALOG = {
     {
       "number": 4,
       "date": "27/10/2026",
-      "title": "Conservação e restauro: áreas e especializações",
-      "viewUrl": "",
-      "downloadUrl": "",
-      "status": "brevemente"
+      "title": "Património em risco: o que Portugal ainda pode perder (Parte II)",
+      "viewUrl": "https://drive.google.com/file/d/1Bjzg3f7iAyHgpHcadwVvJ_YqYdCRgNj8/view?usp=drive_link",
+      "downloadUrl": "https://drive.google.com/uc?export=download&id=1Bjzg3f7iAyHgpHcadwVvJ_YqYdCRgNj8",
+      "status": "disponivel",
+      "addedAt": "2026-11-09",
+      "updateBatch": "2026-11-09-01"
     },
     {
       "number": 5,
-      "date": "03/11/2026",
-      "title": "Centros Históricos: património urbano entre conservação, turismo e vida quotidiana",
+      "date": "10/11/2026",
+      "title": "Conservação e Restauro: do risco à recuperação e nova vida do património",
       "viewUrl": "",
       "downloadUrl": "",
       "status": "brevemente"
     },
     {
       "number": 6,
-      "date": "10/11/2026",
-      "title": "Património construído e a expansão urbana de Coimbra II",
+      "date": "17/11/2026",
+      "title": "Centros Históricos: património urbano entre conservação, turismo e vida quotidiana",
       "viewUrl": "",
       "downloadUrl": "",
       "status": "brevemente"
     },
     {
       "number": 7,
-      "date": "17/11/2026",
-      "title": "Lojas com História",
+      "date": "24/11/2026",
+      "title": "Património construído e a expansão urbana de Coimbra II",
       "viewUrl": "",
       "downloadUrl": "",
       "status": "brevemente"
     },
     {
       "number": 8,
-      "date": "24/11/2026",
-      "title": "Teatros e cinemas de Coimbra",
+      "date": "15/12/2026",
+      "title": "Lojas com História",
       "viewUrl": "",
       "downloadUrl": "",
       "status": "brevemente"
