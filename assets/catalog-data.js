@@ -2792,7 +2792,7 @@ window.PATRIMONIO_CATALOG = {
     "animationDurationMs": 2000
   },
   "recentUpdatesConfig": {
-    "maxItems": 15,
+    "maxItems": 31,
     "dateField": "addedAt",
     "batchField": "updateBatch"
   }
