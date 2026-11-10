@@ -2548,9 +2548,11 @@ window.PATRIMONIO_CATALOG = {
       "number": 5,
       "date": "10/11/2026",
       "title": "Conservação e Restauro: do risco à recuperação e nova vida do património",
-      "viewUrl": "",
-      "downloadUrl": "",
-      "status": "brevemente"
+      "viewUrl": "https://drive.google.com/file/d/1iR_LAgIvLCsoYfI9SXlw17Ig_OZwupaF/view?usp=drive_link",
+      "downloadUrl": "https://drive.google.com/uc?export=download&id=1iR_LAgIvLCsoYfI9SXlw17Ig_OZwupaF",
+      "status": "disponivel",
+      "addedAt": "2026-11-09",
+      "updateBatch": "2026-11-09-02"
     },
     {
       "number": 6,
