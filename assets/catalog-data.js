@@ -2794,7 +2794,7 @@ window.PATRIMONIO_CATALOG = {
     "animationDurationMs": 2000
   },
   "recentUpdatesConfig": {
-    "maxItems": 31,
+    "maxItems": 50,
     "dateField": "addedAt",
     "batchField": "updateBatch"
   }
