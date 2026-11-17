@@ -2557,10 +2557,12 @@ window.PATRIMONIO_CATALOG = {
     {
       "number": 6,
       "date": "17/11/2026",
-      "title": "Centros Históricos: património urbano entre conservação, turismo e vida quotidiana",
-      "viewUrl": "",
-      "downloadUrl": "",
-      "status": "brevemente"
+      "title": "Conservação e Restauro: do risco à recuperação e nova vida do património (Parte II)",
+      "viewUrl": "https://drive.google.com/file/d/1qA1BTfi822Uya0xiKG5cP0YTz9MZ06sn/view?usp=drive_link",
+      "downloadUrl": "https://drive.google.com/uc?export=download&id=1qA1BTfi822Uya0xiKG5cP0YTz9MZ06sn",
+      "status": "disponivel",
+      "addedAt": "2026-11-17",
+      "updateBatch": "2026-11-17-01"
     },
     {
       "number": 7,
