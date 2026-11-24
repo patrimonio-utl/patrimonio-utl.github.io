@@ -2567,10 +2567,12 @@ window.PATRIMONIO_CATALOG = {
     {
       "number": 7,
       "date": "24/11/2026",
-      "title": "Património construído e a expansão urbana de Coimbra II",
-      "viewUrl": "",
-      "downloadUrl": "",
-      "status": "brevemente"
+      "title": "Património construído e a expansão urbana de Coimbra (Parte II)",
+      "viewUrl": "https://drive.google.com/file/d/16oudzCnQSPzqsgNpPFPHxrTK2sfFhL3d/view?usp=drive_link",
+      "downloadUrl": "https://drive.google.com/uc?export=download&id=16oudzCnQSPzqsgNpPFPHxrTK2sfFhL3d",
+      "status": "disponivel",
+      "addedAt": "2026-11-24",
+      "updateBatch": "2026-11-24-01"
     },
     {
       "number": 8,
