@@ -16,19 +16,20 @@
 <link href="assets/site.css" rel="stylesheet"/>
 <style>
 .open-classes-intro{max-width:850px;margin:0 auto;color:var(--muted);font-size:1.05rem}
-.open-classes-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,390px),1fr));gap:28px;align-items:start}
-.open-class-card{background:var(--white);border:1px solid var(--line);box-shadow:var(--shadow);padding:26px;display:flex;flex-direction:column;gap:14px}
+.open-classes-grid{display:flex;flex-direction:column;gap:20px}
+.open-class-card{background:var(--white);border:1px solid var(--line);box-shadow:var(--shadow);padding:22px 26px;display:grid;grid-template-columns:minmax(0,1fr) 168px;align-items:start;gap:24px}
+.open-class-details{min-width:0;display:flex;flex-direction:column;gap:12px}
 .open-class-card h2{margin:0;color:var(--charcoal);font-size:1.25rem;line-height:1.35}
 .open-class-date{margin:0;color:var(--muted);font-weight:600}
 .open-class-speaker{margin:0;font-weight:600}
 .open-class-summary{margin:0;color:var(--ink);font-size:.95rem;line-height:1.7}
 .open-class-format{margin:0;color:var(--muted);font-size:.84rem}
-.open-class-poster{margin:8px 0 0;padding:16px;background:var(--off-white);text-align:center}
+.open-class-poster{margin:0;padding:10px;background:var(--off-white);text-align:center}
 .open-class-poster a{display:inline-block}
-.open-class-poster img{width:auto;max-width:100%;max-height:620px;margin:0 auto;object-fit:contain}
+.open-class-poster img{width:100%;height:auto;max-height:270px;margin:0 auto;object-fit:contain}
 .open-class-poster figcaption{margin-top:10px;color:var(--muted);font-size:.8rem}
 .open-class-poster figcaption a{font-weight:600}
-@media(max-width:640px){.open-class-card{padding:18px}.open-class-card h2{font-size:1.1rem}.open-class-poster{padding:10px}}
+@media(max-width:640px){.open-class-card{grid-template-columns:minmax(0,1fr) 104px;gap:14px;padding:14px}.open-class-card h2{font-size:1.02rem}.open-class-date,.open-class-speaker,.open-class-summary,.open-class-format{font-size:.84rem}.open-class-poster{padding:6px}.open-class-poster img{max-height:190px}.open-class-poster figcaption{font-size:.68rem}}
 </style>
 </head>
 <body>
@@ -64,60 +65,72 @@
 <p class="eyebrow">Património Cultural</p>
 <h1>Aulas Abertas</h1>
 <p class="catalog-subtitle">Convidados, temas e sessões já realizadas</p>
-<p class="catalog-intro open-classes-intro">As Aulas Abertas aproximam a disciplina de especialistas, investigadores e criadores, dando a conhecer diferentes perspetivas sobre o património cultural. Nesta página ficam reunidos os cartazes e os resumos das seis sessões já realizadas.</p>
-<p class="catalog-count">Arquivo de seis Aulas Abertas</p>
+<p class="catalog-intro open-classes-intro">As Aulas Abertas aproximam a disciplina de especialistas, investigadores e criadores, dando a conhecer diferentes perspetivas sobre o património cultural. Nesta página ficam reunidos os cartazes e os resumos das sessões já realizadas.</p>
+<p class="catalog-count">Arquivo de Aulas Abertas</p>
 </div>
 </section>
 <section class="section soft catalog-content">
 <div class="container">
 <div class="open-classes-grid">
 <article class="open-class-card">
+<div class="open-class-details">
 <p class="eyebrow">Aula Aberta</p>
 <h2>ao POSTIGO contigo...</h2>
 <p class="open-class-date">16 de dezembro · 14h30 · Salão Nobre da UTL</p>
 <p class="open-class-speaker">Victor Costa</p>
 <p class="open-class-summary">Victor Costa, artista plástico natural de Coimbra e curador reconhecido, esteve presente na aula de Património Cultural para falar sobre o projeto patrimonial «ao POSTIGO contigo...». Comissário da intervenção artística em Almalaguês, Victor Costa coordena um projeto inovador que envolve 20 artistas nacionais e internacionais, que deram vida aos ambientes de tecelagem tradicional através de pintura e escultura em postigos históricos da freguesia.</p>
+</div>
 <figure class="open-class-poster"><a href="assets/aulas-abertas/6.png" target="_blank" rel="noopener"><img src="assets/aulas-abertas/6.png" alt="Cartaz original da Aula Aberta com Victor Costa, sobre o projeto ao POSTIGO contigo..." loading="lazy"/></a><figcaption>Cartaz original da divulgação · <a href="assets/aulas-abertas/6.png" target="_blank" rel="noopener">abrir em tamanho completo</a></figcaption></figure>
 </article>
 <article class="open-class-card">
+<div class="open-class-details">
 <p class="eyebrow">Aula Aberta</p>
 <h2>Os micro patrimónios que fazem grandes os territórios</h2>
 <p class="open-class-date">20 de janeiro · 14h30 · Salão Nobre da UTL</p>
 <p class="open-class-speaker">Jorge Salgado Simões</p>
 <p class="open-class-summary">Valorizar patrimónios mais pequenos ou invisíveis, criando conteúdos e atividades associadas à sua visitação informada e responsável, assume relevância na promoção de um turismo melhor distribuído e mais sustentável. Entre grutas e peixes esquisitos, paisagens singulares ou histórias que ninguém contou, abordamos exemplos de valorização de pequenos patrimónios e de como estes são relevantes na construção coletiva e no reconhecimento dos territórios.</p>
+</div>
 <figure class="open-class-poster"><a href="assets/aulas-abertas/5.png" target="_blank" rel="noopener"><img src="assets/aulas-abertas/5.png" alt="Cartaz original da Aula Aberta de Jorge Salgado Simões, sobre micro patrimónios e territórios" loading="lazy"/></a><figcaption>Cartaz original da divulgação · <a href="assets/aulas-abertas/5.png" target="_blank" rel="noopener">abrir em tamanho completo</a></figcaption></figure>
 </article>
 <article class="open-class-card">
+<div class="open-class-details">
 <p class="eyebrow">Aula Aberta</p>
 <h2>O restauro patrimonial em Santa Clara-a-Velha de Coimbra</h2>
 <p class="open-class-date">17 de março · 14h30 · Salão Nobre da UTL</p>
 <p class="open-class-speaker">Francisco Pato de Macedo</p>
 <p class="open-class-summary">O mosteiro de Santa Clara-a-Velha de Coimbra mostra hoje a quem o visita uma arquitetura restaurada. Por conseguinte, é fundamental, para aceder à singularidade da sua arquitetura, conhecer as intervenções de restauro patrimonial de que foi objeto e os conceitos a estas subjacentes.</p>
+</div>
 <figure class="open-class-poster"><a href="assets/aulas-abertas/4.png" target="_blank" rel="noopener"><img src="assets/aulas-abertas/4.png" alt="Cartaz original da Aula Aberta de Francisco Pato de Macedo, sobre o restauro patrimonial em Santa Clara-a-Velha" loading="lazy"/></a><figcaption>Cartaz original da divulgação · <a href="assets/aulas-abertas/4.png" target="_blank" rel="noopener">abrir em tamanho completo</a></figcaption></figure>
 </article>
 <article class="open-class-card">
+<div class="open-class-details">
 <p class="eyebrow">Aula Aberta</p>
 <h2>A Arqueologia Urbana e a valorização do Património (re)descoberto</h2>
 <p class="open-class-date">15 de dezembro · 14h30 · Salão Nobre da UTL</p>
 <p class="open-class-speaker">Ana Gervásio e Sérgio Madeira</p>
 <p class="open-class-summary">A Arqueologia Urbana nasceu como resposta à «erosão da História», num século XX de cidades aceleradas e infraestruturas levantadas sem olhar às memórias que as antecediam. Hoje, num mundo globalizado, torna-se essencial para afirmar, preservar e projetar identidades locais e nacionais. E Coimbra mostra-o com clareza: uma verdadeira «revolução da Arqueologia», conduzida por serviços camarários e privados, tem permitido revelar, valorizar e devolver à cidade o Património (re)descoberto, vivo, presente e pronto a ser usufruído.</p>
+</div>
 <figure class="open-class-poster"><a href="assets/aulas-abertas/3.png" target="_blank" rel="noopener"><img src="assets/aulas-abertas/3.png" alt="Cartaz original da Aula Aberta com Ana Gervásio e Sérgio Madeira, sobre arqueologia urbana" loading="lazy"/></a><figcaption>Cartaz original da divulgação · <a href="assets/aulas-abertas/3.png" target="_blank" rel="noopener">abrir em tamanho completo</a></figcaption></figure>
 </article>
 <article class="open-class-card">
+<div class="open-class-details">
 <p class="eyebrow">Aula Aberta</p>
 <h2>O Cemitério da Conchada. Os cemitérios históricos como património da memória (i)material</h2>
 <p class="open-class-date">13 de abril · 14h30 · Salão Nobre da UTL</p>
 <p class="open-class-speaker">Sara Madeira · Departamento de Geografia e Turismo da Faculdade de Letras da Universidade de Coimbra</p>
 <p class="open-class-summary">Os cemitérios históricos revelam as (i)materialidades da memória, (re)interpretando a historicidade cultural e evocando o significado do passado, presente e futuro. O Cemitério da Conchada, em Coimbra, salvaguarda, na materialidade da cantaria e do ferro forjado, as idiossincrasias das identidades coletivas e individuais conimbricenses, possibilitando o entendimento do património cultural cemiterial numa perspetiva de heterogeneidade turística sustentável.</p>
+</div>
 <figure class="open-class-poster"><a href="assets/aulas-abertas/2.png" target="_blank" rel="noopener"><img src="assets/aulas-abertas/2.png" alt="Cartaz original da Aula Aberta de Sara Madeira sobre o Cemitério da Conchada" loading="lazy"/></a><figcaption>Cartaz original da divulgação · <a href="assets/aulas-abertas/2.png" target="_blank" rel="noopener">abrir em tamanho completo</a></figcaption></figure>
 </article>
 <article class="open-class-card">
+<div class="open-class-details">
 <p class="eyebrow">Aula Aberta · Filme-documentário</p>
 <h2>SALATINAS — Histórias da Velha Alta de Coimbra</h2>
 <p class="open-class-date">11 de maio · 14h30 · Salão Nobre da UTL</p>
 <p class="open-class-speaker">Realização e montagem: Filipa Queiroz, Rafael Vieira e Tiago Cerveira</p>
 <p class="open-class-format">Projeção do filme e conversa com os realizadores.</p>
 <p class="open-class-summary">Na década de 1940, cerca de três mil pessoas foram expulsas da Alta de Coimbra para dar lugar à Cidade Universitária. A partir do testemunho dos últimos sobreviventes, este documentário revisita uma das maiores transformações urbanísticas em Portugal, num tempo em que desalojamentos forçados, falta de habitação e segregação social continuam atuais. É uma viagem à memória de um bairro apagado pelo regime, soterrando a vida de estudantes, tricanas, merceeiros e alfaiates sob imponentes faculdades. Um filme sobre pessoas, poder, resistência, identidade, comunidade, liberdade e o preço do progresso — e sobre o que significa pertencer a um lugar, o que lhe dá identidade e o que permanece.</p>
+</div>
 <figure class="open-class-poster"><a href="assets/aulas-abertas/1.png" target="_blank" rel="noopener"><img src="assets/aulas-abertas/1.png" alt="Cartaz original da sessão SALATINAS — Histórias da Velha Alta de Coimbra" loading="lazy"/></a><figcaption>Cartaz original da divulgação · <a href="assets/aulas-abertas/1.png" target="_blank" rel="noopener">abrir em tamanho completo</a></figcaption></figure>
 </article>
 </div>
